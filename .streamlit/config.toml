@@ -1,0 +1,13 @@
+[server]
+# FR-02: reject oversized files before modelling. Keeping the browser and the
+# server limits aligned means a 21 MB file never reaches the parser.
+maxUploadSize = 20
+headless = true
+
+[browser]
+# Privacy requirement: no analytics or telemetry from this app.
+gatherUsageStats = false
+
+[client]
+toolbarMode = "minimal"
+showErrorDetails = false

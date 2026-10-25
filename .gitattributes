@@ -1,0 +1,6 @@
+# Keep line endings stable across Windows, macOS and Linux checkouts.
+* text=auto eol=lf
+
+# Binary-ish assets must never be normalised.
+*.csv text eol=lf
+*.png binary

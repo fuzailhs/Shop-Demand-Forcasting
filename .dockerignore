@@ -1,0 +1,11 @@
+.git
+.gitignore
+.lockenv
+.pytest_cache
+__pycache__
+*.pyc
+tests/__pycache__
+README.md
+PRD.md
+FUNCTIONAL.md
+TECHNICAL.md

@@ -1,0 +1,11 @@
+# Direct dependencies for Shop Demand Forecasting.
+# For a byte-for-byte reproducible environment use requirements.lock.txt instead:
+#     pip install -r requirements.lock.txt
+
+streamlit==1.40.1
+pandas==2.2.3
+scikit-learn==1.5.2
+plotly==5.24.1
+
+# Development / test only
+pytest==8.3.3

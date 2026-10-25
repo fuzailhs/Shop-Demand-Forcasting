@@ -1,0 +1,2231 @@
+date,product,units_sold
+2025-10-25,Apple Pie,12
+2025-10-25,Butter Croissant,72
+2025-10-25,Chocolate Cookie,83
+2025-10-25,Cinnamon Bun,33
+2025-10-25,Sourdough Loaf,29
+2025-10-25,Whole Wheat Bread,53
+2025-10-26,Apple Pie,26
+2025-10-26,Butter Croissant,72
+2025-10-26,Chocolate Cookie,68
+2025-10-26,Cinnamon Bun,27
+2025-10-26,Sourdough Loaf,19
+2025-10-26,Whole Wheat Bread,52
+2025-10-27,Apple Pie,16
+2025-10-27,Butter Croissant,52
+2025-10-27,Chocolate Cookie,74
+2025-10-27,Cinnamon Bun,32
+2025-10-27,Sourdough Loaf,16
+2025-10-27,Whole Wheat Bread,42
+2025-10-28,Apple Pie,9
+2025-10-28,Butter Croissant,39
+2025-10-28,Chocolate Cookie,73
+2025-10-28,Cinnamon Bun,33
+2025-10-28,Sourdough Loaf,22
+2025-10-28,Whole Wheat Bread,38
+2025-10-29,Apple Pie,13
+2025-10-29,Butter Croissant,51
+2025-10-29,Chocolate Cookie,62
+2025-10-29,Cinnamon Bun,18
+2025-10-29,Sourdough Loaf,21
+2025-10-29,Whole Wheat Bread,38
+2025-10-30,Apple Pie,12
+2025-10-30,Butter Croissant,43
+2025-10-30,Chocolate Cookie,63
+2025-10-30,Cinnamon Bun,25
+2025-10-30,Sourdough Loaf,18
+2025-10-30,Whole Wheat Bread,35
+2025-10-31,Apple Pie,16
+2025-10-31,Butter Croissant,61
+2025-10-31,Chocolate Cookie,73
+2025-10-31,Cinnamon Bun,36
+2025-10-31,Sourdough Loaf,17
+2025-10-31,Whole Wheat Bread,44
+2025-11-01,Apple Pie,17
+2025-11-01,Butter Croissant,81
+2025-11-01,Chocolate Cookie,81
+2025-11-01,Cinnamon Bun,36
+2025-11-01,Sourdough Loaf,27
+2025-11-01,Whole Wheat Bread,61
+2025-11-02,Apple Pie,17
+2025-11-02,Butter Croissant,75
+2025-11-02,Chocolate Cookie,72
+2025-11-02,Cinnamon Bun,31
+2025-11-02,Sourdough Loaf,23
+2025-11-02,Whole Wheat Bread,50
+2025-11-03,Apple Pie,13
+2025-11-03,Butter Croissant,53
+2025-11-03,Chocolate Cookie,73
+2025-11-03,Cinnamon Bun,24
+2025-11-03,Sourdough Loaf,23
+2025-11-03,Whole Wheat Bread,42
+2025-11-04,Apple Pie,13
+2025-11-04,Butter Croissant,48
+2025-11-04,Chocolate Cookie,55
+2025-11-04,Cinnamon Bun,23
+2025-11-04,Sourdough Loaf,27
+2025-11-04,Whole Wheat Bread,45
+2025-11-05,Apple Pie,16
+2025-11-05,Butter Croissant,47
+2025-11-05,Chocolate Cookie,66
+2025-11-05,Cinnamon Bun,23
+2025-11-05,Sourdough Loaf,21
+2025-11-05,Whole Wheat Bread,43
+2025-11-06,Apple Pie,14
+2025-11-06,Butter Croissant,43
+2025-11-06,Chocolate Cookie,67
+2025-11-06,Cinnamon Bun,23
+2025-11-06,Sourdough Loaf,17
+2025-11-06,Whole Wheat Bread,41
+2025-11-07,Apple Pie,23
+2025-11-07,Butter Croissant,61
+2025-11-07,Chocolate Cookie,73
+2025-11-07,Cinnamon Bun,30
+2025-11-07,Sourdough Loaf,20
+2025-11-07,Whole Wheat Bread,41
+2025-11-08,Apple Pie,19
+2025-11-08,Butter Croissant,91
+2025-11-08,Chocolate Cookie,83
+2025-11-08,Cinnamon Bun,31
+2025-11-08,Sourdough Loaf,28
+2025-11-08,Whole Wheat Bread,55
+2025-11-09,Apple Pie,20
+2025-11-09,Butter Croissant,88
+2025-11-09,Chocolate Cookie,70
+2025-11-09,Cinnamon Bun,29
+2025-11-09,Sourdough Loaf,25
+2025-11-09,Whole Wheat Bread,55
+2025-11-10,Apple Pie,7
+2025-11-10,Butter Croissant,60
+2025-11-10,Chocolate Cookie,73
+2025-11-10,Cinnamon Bun,21
+2025-11-10,Sourdough Loaf,18
+2025-11-10,Whole Wheat Bread,39
+2025-11-11,Apple Pie,8
+2025-11-11,Butter Croissant,55
+2025-11-11,Chocolate Cookie,67
+2025-11-11,Cinnamon Bun,24
+2025-11-11,Sourdough Loaf,21
+2025-11-11,Whole Wheat Bread,41
+2025-11-12,Apple Pie,16
+2025-11-12,Butter Croissant,47
+2025-11-12,Chocolate Cookie,64
+2025-11-12,Cinnamon Bun,21
+2025-11-12,Sourdough Loaf,16
+2025-11-12,Whole Wheat Bread,33
+2025-11-13,Apple Pie,11
+2025-11-13,Butter Croissant,60
+2025-11-13,Chocolate Cookie,61
+2025-11-13,Cinnamon Bun,24
+2025-11-13,Sourdough Loaf,23
+2025-11-13,Whole Wheat Bread,35
+2025-11-14,Apple Pie,18
+2025-11-14,Butter Croissant,61
+2025-11-14,Chocolate Cookie,67
+2025-11-14,Cinnamon Bun,31
+2025-11-14,Sourdough Loaf,27
+2025-11-14,Whole Wheat Bread,37
+2025-11-15,Apple Pie,21
+2025-11-15,Butter Croissant,81
+2025-11-15,Chocolate Cookie,84
+2025-11-15,Cinnamon Bun,34
+2025-11-15,Sourdough Loaf,32
+2025-11-15,Whole Wheat Bread,54
+2025-11-16,Apple Pie,16
+2025-11-16,Butter Croissant,75
+2025-11-16,Chocolate Cookie,72
+2025-11-16,Cinnamon Bun,33
+2025-11-16,Sourdough Loaf,24
+2025-11-16,Whole Wheat Bread,46
+2025-11-17,Apple Pie,11
+2025-11-17,Butter Croissant,54
+2025-11-17,Chocolate Cookie,70
+2025-11-17,Cinnamon Bun,27
+2025-11-17,Sourdough Loaf,23
+2025-11-17,Whole Wheat Bread,46
+2025-11-18,Apple Pie,10
+2025-11-18,Butter Croissant,49
+2025-11-18,Chocolate Cookie,75
+2025-11-18,Cinnamon Bun,25
+2025-11-18,Sourdough Loaf,20
+2025-11-18,Whole Wheat Bread,44
+2025-11-19,Apple Pie,11
+2025-11-19,Butter Croissant,50
+2025-11-19,Chocolate Cookie,76
+2025-11-19,Cinnamon Bun,24
+2025-11-19,Sourdough Loaf,19
+2025-11-19,Whole Wheat Bread,41
+2025-11-20,Apple Pie,16
+2025-11-20,Butter Croissant,47
+2025-11-20,Chocolate Cookie,80
+2025-11-20,Cinnamon Bun,23
+2025-11-20,Sourdough Loaf,19
+2025-11-20,Whole Wheat Bread,29
+2025-11-21,Apple Pie,18
+2025-11-21,Butter Croissant,59
+2025-11-21,Chocolate Cookie,73
+2025-11-21,Cinnamon Bun,30
+2025-11-21,Sourdough Loaf,20
+2025-11-21,Whole Wheat Bread,43
+2025-11-22,Apple Pie,19
+2025-11-22,Butter Croissant,93
+2025-11-22,Chocolate Cookie,75
+2025-11-22,Cinnamon Bun,29
+2025-11-22,Sourdough Loaf,24
+2025-11-22,Whole Wheat Bread,55
+2025-11-23,Apple Pie,17
+2025-11-23,Butter Croissant,77
+2025-11-23,Chocolate Cookie,85
+2025-11-23,Cinnamon Bun,36
+2025-11-23,Sourdough Loaf,28
+2025-11-23,Whole Wheat Bread,53
+2025-11-24,Apple Pie,13
+2025-11-24,Butter Croissant,52
+2025-11-24,Chocolate Cookie,72
+2025-11-24,Cinnamon Bun,25
+2025-11-24,Sourdough Loaf,21
+2025-11-24,Whole Wheat Bread,38
+2025-11-25,Apple Pie,12
+2025-11-25,Butter Croissant,54
+2025-11-25,Chocolate Cookie,76
+2025-11-25,Cinnamon Bun,22
+2025-11-25,Sourdough Loaf,21
+2025-11-25,Whole Wheat Bread,41
+2025-11-26,Apple Pie,15
+2025-11-26,Butter Croissant,54
+2025-11-26,Chocolate Cookie,69
+2025-11-26,Cinnamon Bun,22
+2025-11-26,Sourdough Loaf,23
+2025-11-26,Whole Wheat Bread,37
+2025-11-27,Apple Pie,21
+2025-11-27,Butter Croissant,46
+2025-11-27,Chocolate Cookie,78
+2025-11-27,Cinnamon Bun,22
+2025-11-27,Sourdough Loaf,14
+2025-11-27,Whole Wheat Bread,37
+2025-11-28,Apple Pie,19
+2025-11-28,Butter Croissant,60
+2025-11-28,Chocolate Cookie,81
+2025-11-28,Cinnamon Bun,28
+2025-11-28,Sourdough Loaf,21
+2025-11-28,Whole Wheat Bread,51
+2025-11-29,Apple Pie,21
+2025-11-29,Butter Croissant,86
+2025-11-29,Chocolate Cookie,87
+2025-11-29,Cinnamon Bun,30
+2025-11-29,Sourdough Loaf,29
+2025-11-29,Whole Wheat Bread,52
+2025-11-30,Apple Pie,19
+2025-11-30,Butter Croissant,78
+2025-11-30,Chocolate Cookie,82
+2025-11-30,Cinnamon Bun,35
+2025-11-30,Sourdough Loaf,27
+2025-11-30,Whole Wheat Bread,52
+2025-12-01,Apple Pie,10
+2025-12-01,Butter Croissant,56
+2025-12-01,Chocolate Cookie,75
+2025-12-01,Cinnamon Bun,23
+2025-12-01,Sourdough Loaf,21
+2025-12-01,Whole Wheat Bread,51
+2025-12-02,Apple Pie,10
+2025-12-02,Butter Croissant,62
+2025-12-02,Chocolate Cookie,73
+2025-12-02,Cinnamon Bun,17
+2025-12-02,Sourdough Loaf,24
+2025-12-02,Whole Wheat Bread,43
+2025-12-03,Apple Pie,10
+2025-12-03,Butter Croissant,49
+2025-12-03,Chocolate Cookie,74
+2025-12-03,Cinnamon Bun,22
+2025-12-03,Sourdough Loaf,21
+2025-12-03,Whole Wheat Bread,43
+2025-12-04,Apple Pie,13
+2025-12-04,Butter Croissant,55
+2025-12-04,Chocolate Cookie,80
+2025-12-04,Cinnamon Bun,18
+2025-12-04,Sourdough Loaf,17
+2025-12-04,Whole Wheat Bread,43
+2025-12-05,Apple Pie,16
+2025-12-05,Butter Croissant,61
+2025-12-05,Chocolate Cookie,75
+2025-12-05,Sourdough Loaf,22
+2025-12-05,Whole Wheat Bread,48
+2025-12-06,Apple Pie,24
+2025-12-06,Butter Croissant,92
+2025-12-06,Chocolate Cookie,97
+2025-12-06,Sourdough Loaf,32
+2025-12-06,Whole Wheat Bread,52
+2025-12-07,Apple Pie,19
+2025-12-07,Butter Croissant,69
+2025-12-07,Chocolate Cookie,81
+2025-12-07,Sourdough Loaf,28
+2025-12-07,Whole Wheat Bread,55
+2025-12-08,Apple Pie,12
+2025-12-08,Butter Croissant,51
+2025-12-08,Chocolate Cookie,79
+2025-12-08,Cinnamon Bun,26
+2025-12-08,Sourdough Loaf,17
+2025-12-08,Whole Wheat Bread,53
+2025-12-09,Apple Pie,9
+2025-12-09,Butter Croissant,51
+2025-12-09,Chocolate Cookie,71
+2025-12-09,Cinnamon Bun,30
+2025-12-09,Sourdough Loaf,25
+2025-12-09,Whole Wheat Bread,38
+2025-12-10,Apple Pie,18
+2025-12-10,Butter Croissant,56
+2025-12-10,Chocolate Cookie,71
+2025-12-10,Cinnamon Bun,28
+2025-12-10,Sourdough Loaf,23
+2025-12-10,Whole Wheat Bread,47
+2025-12-11,Apple Pie,16
+2025-12-11,Butter Croissant,58
+2025-12-11,Chocolate Cookie,87
+2025-12-11,Cinnamon Bun,21
+2025-12-11,Sourdough Loaf,24
+2025-12-11,Whole Wheat Bread,43
+2025-12-12,Apple Pie,22
+2025-12-12,Butter Croissant,72
+2025-12-12,Chocolate Cookie,77
+2025-12-12,Cinnamon Bun,25
+2025-12-12,Sourdough Loaf,23
+2025-12-12,Whole Wheat Bread,45
+2025-12-13,Apple Pie,24
+2025-12-13,Butter Croissant,76
+2025-12-13,Chocolate Cookie,78
+2025-12-13,Cinnamon Bun,41
+2025-12-13,Sourdough Loaf,29
+2025-12-13,Whole Wheat Bread,67
+2025-12-14,Apple Pie,24
+2025-12-14,Butter Croissant,84
+2025-12-14,Chocolate Cookie,78
+2025-12-14,Cinnamon Bun,33
+2025-12-14,Sourdough Loaf,23
+2025-12-14,Whole Wheat Bread,58
+2025-12-15,Apple Pie,12
+2025-12-15,Butter Croissant,54
+2025-12-15,Chocolate Cookie,71
+2025-12-15,Cinnamon Bun,26
+2025-12-15,Sourdough Loaf,30
+2025-12-15,Whole Wheat Bread,42
+2025-12-16,Apple Pie,14
+2025-12-16,Butter Croissant,50
+2025-12-16,Chocolate Cookie,86
+2025-12-16,Cinnamon Bun,30
+2025-12-16,Sourdough Loaf,21
+2025-12-16,Whole Wheat Bread,46
+2025-12-17,Apple Pie,21
+2025-12-17,Butter Croissant,55
+2025-12-17,Chocolate Cookie,74
+2025-12-17,Cinnamon Bun,35
+2025-12-17,Sourdough Loaf,26
+2025-12-17,Whole Wheat Bread,46
+2025-12-18,Apple Pie,11
+2025-12-18,Butter Croissant,49
+2025-12-18,Chocolate Cookie,80
+2025-12-18,Cinnamon Bun,31
+2025-12-18,Sourdough Loaf,19
+2025-12-18,Whole Wheat Bread,42
+2025-12-19,Apple Pie,20
+2025-12-19,Butter Croissant,52
+2025-12-19,Chocolate Cookie,72
+2025-12-19,Cinnamon Bun,29
+2025-12-19,Sourdough Loaf,25
+2025-12-19,Whole Wheat Bread,51
+2025-12-20,Apple Pie,27
+2025-12-20,Butter Croissant,82
+2025-12-20,Chocolate Cookie,88
+2025-12-20,Cinnamon Bun,36
+2025-12-20,Sourdough Loaf,25
+2025-12-20,Whole Wheat Bread,57
+2025-12-21,Apple Pie,21
+2025-12-21,Butter Croissant,72
+2025-12-21,Chocolate Cookie,87
+2025-12-21,Cinnamon Bun,34
+2025-12-21,Sourdough Loaf,26
+2025-12-21,Whole Wheat Bread,58
+2025-12-22,Apple Pie,15
+2025-12-22,Butter Croissant,52
+2025-12-22,Chocolate Cookie,85
+2025-12-22,Cinnamon Bun,24
+2025-12-22,Sourdough Loaf,25
+2025-12-22,Whole Wheat Bread,54
+2025-12-23,Apple Pie,16
+2025-12-23,Butter Croissant,55
+2025-12-23,Chocolate Cookie,67
+2025-12-23,Cinnamon Bun,22
+2025-12-23,Sourdough Loaf,18
+2025-12-23,Whole Wheat Bread,42
+2025-12-24,Apple Pie,11
+2025-12-24,Butter Croissant,54
+2025-12-24,Chocolate Cookie,76
+2025-12-24,Cinnamon Bun,25
+2025-12-24,Sourdough Loaf,24
+2025-12-24,Whole Wheat Bread,45
+2025-12-25,Apple Pie,15
+2025-12-25,Butter Croissant,63
+2025-12-25,Chocolate Cookie,76
+2025-12-25,Cinnamon Bun,22
+2025-12-25,Sourdough Loaf,21
+2025-12-25,Whole Wheat Bread,41
+2025-12-26,Apple Pie,14
+2025-12-26,Butter Croissant,63
+2025-12-26,Chocolate Cookie,72
+2025-12-26,Cinnamon Bun,28
+2025-12-26,Sourdough Loaf,21
+2025-12-26,Whole Wheat Bread,49
+2025-12-27,Apple Pie,20
+2025-12-27,Butter Croissant,76
+2025-12-27,Chocolate Cookie,86
+2025-12-27,Cinnamon Bun,35
+2025-12-27,Sourdough Loaf,28
+2025-12-27,Whole Wheat Bread,52
+2025-12-28,Apple Pie,18
+2025-12-28,Butter Croissant,76
+2025-12-28,Chocolate Cookie,81
+2025-12-28,Cinnamon Bun,41
+2025-12-28,Sourdough Loaf,25
+2025-12-28,Whole Wheat Bread,52
+2025-12-29,Apple Pie,12
+2025-12-29,Butter Croissant,50
+2025-12-29,Chocolate Cookie,58
+2025-12-29,Cinnamon Bun,23
+2025-12-29,Sourdough Loaf,22
+2025-12-29,Whole Wheat Bread,46
+2025-12-30,Apple Pie,13
+2025-12-30,Butter Croissant,47
+2025-12-30,Chocolate Cookie,76
+2025-12-30,Cinnamon Bun,25
+2025-12-30,Sourdough Loaf,20
+2025-12-30,Whole Wheat Bread,49
+2025-12-31,Apple Pie,14
+2025-12-31,Butter Croissant,55
+2025-12-31,Chocolate Cookie,76
+2025-12-31,Cinnamon Bun,25
+2025-12-31,Sourdough Loaf,18
+2025-12-31,Whole Wheat Bread,49
+2026-01-01,Apple Pie,11
+2026-01-01,Butter Croissant,53
+2026-01-01,Chocolate Cookie,74
+2026-01-01,Cinnamon Bun,28
+2026-01-01,Sourdough Loaf,20
+2026-01-01,Whole Wheat Bread,39
+2026-01-02,Apple Pie,23
+2026-01-02,Butter Croissant,55
+2026-01-02,Chocolate Cookie,74
+2026-01-02,Cinnamon Bun,33
+2026-01-02,Sourdough Loaf,22
+2026-01-02,Whole Wheat Bread,46
+2026-01-03,Apple Pie,26
+2026-01-03,Butter Croissant,91
+2026-01-03,Chocolate Cookie,99
+2026-01-03,Cinnamon Bun,34
+2026-01-03,Sourdough Loaf,27
+2026-01-03,Whole Wheat Bread,63
+2026-01-04,Apple Pie,23
+2026-01-04,Butter Croissant,82
+2026-01-04,Chocolate Cookie,88
+2026-01-04,Cinnamon Bun,30
+2026-01-04,Sourdough Loaf,28
+2026-01-04,Whole Wheat Bread,48
+2026-01-05,Apple Pie,12
+2026-01-05,Butter Croissant,59
+2026-01-05,Chocolate Cookie,83
+2026-01-05,Cinnamon Bun,21
+2026-01-05,Sourdough Loaf,26
+2026-01-05,Whole Wheat Bread,47
+2026-01-06,Apple Pie,13
+2026-01-06,Butter Croissant,56
+2026-01-06,Chocolate Cookie,84
+2026-01-06,Cinnamon Bun,23
+2026-01-06,Sourdough Loaf,18
+2026-01-06,Whole Wheat Bread,47
+2026-01-07,Apple Pie,15
+2026-01-07,Butter Croissant,58
+2026-01-07,Chocolate Cookie,72
+2026-01-07,Cinnamon Bun,28
+2026-01-07,Sourdough Loaf,22
+2026-01-07,Whole Wheat Bread,51
+2026-01-08,Apple Pie,16
+2026-01-08,Butter Croissant,57
+2026-01-08,Chocolate Cookie,82
+2026-01-08,Cinnamon Bun,27
+2026-01-08,Sourdough Loaf,19
+2026-01-08,Whole Wheat Bread,48
+2026-01-09,Apple Pie,13
+2026-01-09,Butter Croissant,73
+2026-01-09,Chocolate Cookie,81
+2026-01-09,Cinnamon Bun,26
+2026-01-09,Sourdough Loaf,23
+2026-01-09,Whole Wheat Bread,49
+2026-01-10,Apple Pie,25
+2026-01-10,Butter Croissant,89
+2026-01-10,Chocolate Cookie,90
+2026-01-10,Cinnamon Bun,34
+2026-01-10,Sourdough Loaf,34
+2026-01-10,Whole Wheat Bread,59
+2026-01-11,Apple Pie,29
+2026-01-11,Butter Croissant,85
+2026-01-11,Chocolate Cookie,86
+2026-01-11,Cinnamon Bun,33
+2026-01-11,Sourdough Loaf,26
+2026-01-11,Whole Wheat Bread,56
+2026-01-12,Apple Pie,8
+2026-01-12,Butter Croissant,59
+2026-01-12,Chocolate Cookie,77
+2026-01-12,Cinnamon Bun,29
+2026-01-12,Sourdough Loaf,28
+2026-01-12,Whole Wheat Bread,56
+2026-01-13,Apple Pie,16
+2026-01-13,Butter Croissant,47
+2026-01-13,Chocolate Cookie,82
+2026-01-13,Cinnamon Bun,25
+2026-01-13,Sourdough Loaf,20
+2026-01-13,Whole Wheat Bread,45
+2026-01-14,Apple Pie,15
+2026-01-14,Butter Croissant,53
+2026-01-14,Chocolate Cookie,77
+2026-01-14,Cinnamon Bun,25
+2026-01-14,Sourdough Loaf,23
+2026-01-14,Whole Wheat Bread,44
+2026-01-15,Apple Pie,14
+2026-01-15,Butter Croissant,55
+2026-01-15,Chocolate Cookie,76
+2026-01-15,Cinnamon Bun,20
+2026-01-15,Sourdough Loaf,21
+2026-01-15,Whole Wheat Bread,46
+2026-01-16,Apple Pie,22
+2026-01-16,Butter Croissant,67
+2026-01-16,Chocolate Cookie,81
+2026-01-16,Cinnamon Bun,25
+2026-01-16,Sourdough Loaf,23
+2026-01-16,Whole Wheat Bread,50
+2026-01-17,Apple Pie,19
+2026-01-17,Butter Croissant,80
+2026-01-17,Chocolate Cookie,92
+2026-01-17,Cinnamon Bun,42
+2026-01-17,Sourdough Loaf,33
+2026-01-17,Whole Wheat Bread,59
+2026-01-18,Apple Pie,21
+2026-01-18,Butter Croissant,92
+2026-01-18,Chocolate Cookie,81
+2026-01-18,Cinnamon Bun,25
+2026-01-18,Sourdough Loaf,27
+2026-01-18,Whole Wheat Bread,52
+2026-01-19,Apple Pie,17
+2026-01-19,Butter Croissant,58
+2026-01-19,Chocolate Cookie,73
+2026-01-19,Cinnamon Bun,26
+2026-01-19,Sourdough Loaf,25
+2026-01-19,Whole Wheat Bread,49
+2026-01-20,Apple Pie,12
+2026-01-20,Butter Croissant,49
+2026-01-20,Chocolate Cookie,75
+2026-01-20,Cinnamon Bun,28
+2026-01-20,Sourdough Loaf,22
+2026-01-20,Whole Wheat Bread,45
+2026-01-21,Apple Pie,12
+2026-01-21,Butter Croissant,45
+2026-01-21,Chocolate Cookie,72
+2026-01-21,Cinnamon Bun,25
+2026-01-21,Sourdough Loaf,19
+2026-01-21,Whole Wheat Bread,51
+2026-01-22,Apple Pie,15
+2026-01-22,Butter Croissant,55
+2026-01-22,Chocolate Cookie,77
+2026-01-22,Cinnamon Bun,24
+2026-01-22,Sourdough Loaf,21
+2026-01-22,Whole Wheat Bread,48
+2026-01-23,Apple Pie,16
+2026-01-23,Butter Croissant,66
+2026-01-23,Chocolate Cookie,79
+2026-01-23,Cinnamon Bun,29
+2026-01-23,Sourdough Loaf,26
+2026-01-23,Whole Wheat Bread,50
+2026-01-24,Apple Pie,27
+2026-01-24,Butter Croissant,83
+2026-01-24,Chocolate Cookie,103
+2026-01-24,Cinnamon Bun,36
+2026-01-24,Sourdough Loaf,34
+2026-01-24,Whole Wheat Bread,63
+2026-01-25,Apple Pie,18
+2026-01-25,Butter Croissant,83
+2026-01-25,Chocolate Cookie,95
+2026-01-25,Cinnamon Bun,33
+2026-01-25,Sourdough Loaf,25
+2026-01-25,Whole Wheat Bread,56
+2026-01-26,Apple Pie,16
+2026-01-26,Butter Croissant,53
+2026-01-26,Chocolate Cookie,80
+2026-01-26,Cinnamon Bun,20
+2026-01-26,Sourdough Loaf,23
+2026-01-26,Whole Wheat Bread,54
+2026-01-27,Apple Pie,9
+2026-01-27,Butter Croissant,58
+2026-01-27,Chocolate Cookie,75
+2026-01-27,Cinnamon Bun,26
+2026-01-27,Sourdough Loaf,17
+2026-01-27,Whole Wheat Bread,47
+2026-01-28,Apple Pie,15
+2026-01-28,Butter Croissant,50
+2026-01-28,Chocolate Cookie,90
+2026-01-28,Cinnamon Bun,23
+2026-01-28,Sourdough Loaf,24
+2026-01-28,Whole Wheat Bread,48
+2026-01-29,Apple Pie,14
+2026-01-29,Butter Croissant,56
+2026-01-29,Chocolate Cookie,80
+2026-01-29,Cinnamon Bun,25
+2026-01-29,Sourdough Loaf,18
+2026-01-29,Whole Wheat Bread,39
+2026-01-30,Apple Pie,10
+2026-01-30,Butter Croissant,71
+2026-01-30,Chocolate Cookie,82
+2026-01-30,Cinnamon Bun,30
+2026-01-30,Sourdough Loaf,20
+2026-01-30,Whole Wheat Bread,52
+2026-01-31,Apple Pie,23
+2026-01-31,Butter Croissant,101
+2026-01-31,Chocolate Cookie,93
+2026-01-31,Cinnamon Bun,38
+2026-01-31,Sourdough Loaf,31
+2026-01-31,Whole Wheat Bread,53
+2026-02-01,Apple Pie,18
+2026-02-01,Butter Croissant,79
+2026-02-01,Chocolate Cookie,91
+2026-02-01,Cinnamon Bun,38
+2026-02-01,Sourdough Loaf,32
+2026-02-01,Whole Wheat Bread,50
+2026-02-02,Apple Pie,12
+2026-02-02,Butter Croissant,56
+2026-02-02,Chocolate Cookie,88
+2026-02-02,Cinnamon Bun,26
+2026-02-02,Sourdough Loaf,19
+2026-02-02,Whole Wheat Bread,49
+2026-02-03,Apple Pie,18
+2026-02-03,Butter Croissant,52
+2026-02-03,Chocolate Cookie,77
+2026-02-03,Cinnamon Bun,31
+2026-02-03,Sourdough Loaf,20
+2026-02-03,Whole Wheat Bread,45
+2026-02-04,Apple Pie,11
+2026-02-04,Butter Croissant,60
+2026-02-04,Chocolate Cookie,92
+2026-02-04,Cinnamon Bun,31
+2026-02-04,Sourdough Loaf,20
+2026-02-04,Whole Wheat Bread,48
+2026-02-05,Apple Pie,12
+2026-02-05,Butter Croissant,51
+2026-02-05,Chocolate Cookie,74
+2026-02-05,Cinnamon Bun,32
+2026-02-05,Sourdough Loaf,19
+2026-02-05,Whole Wheat Bread,56
+2026-02-06,Apple Pie,22
+2026-02-06,Butter Croissant,65
+2026-02-06,Chocolate Cookie,90
+2026-02-06,Cinnamon Bun,36
+2026-02-06,Sourdough Loaf,27
+2026-02-06,Whole Wheat Bread,48
+2026-02-07,Apple Pie,24
+2026-02-07,Butter Croissant,89
+2026-02-07,Chocolate Cookie,87
+2026-02-07,Cinnamon Bun,36
+2026-02-07,Sourdough Loaf,30
+2026-02-07,Whole Wheat Bread,59
+2026-02-08,Apple Pie,26
+2026-02-08,Butter Croissant,79
+2026-02-08,Chocolate Cookie,101
+2026-02-08,Cinnamon Bun,34
+2026-02-08,Sourdough Loaf,26
+2026-02-08,Whole Wheat Bread,60
+2026-02-09,Apple Pie,15
+2026-02-09,Butter Croissant,53
+2026-02-09,Chocolate Cookie,77
+2026-02-09,Cinnamon Bun,31
+2026-02-09,Sourdough Loaf,26
+2026-02-09,Whole Wheat Bread,53
+2026-02-10,Apple Pie,11
+2026-02-10,Butter Croissant,54
+2026-02-10,Chocolate Cookie,77
+2026-02-10,Cinnamon Bun,22
+2026-02-10,Sourdough Loaf,21
+2026-02-10,Whole Wheat Bread,48
+2026-02-11,Apple Pie,14
+2026-02-11,Butter Croissant,44
+2026-02-11,Chocolate Cookie,85
+2026-02-11,Cinnamon Bun,28
+2026-02-11,Sourdough Loaf,24
+2026-02-11,Whole Wheat Bread,46
+2026-02-12,Apple Pie,19
+2026-02-12,Butter Croissant,50
+2026-02-12,Chocolate Cookie,88
+2026-02-12,Cinnamon Bun,26
+2026-02-12,Sourdough Loaf,19
+2026-02-12,Whole Wheat Bread,49
+2026-02-13,Apple Pie,21
+2026-02-13,Butter Croissant,65
+2026-02-13,Chocolate Cookie,78
+2026-02-13,Cinnamon Bun,29
+2026-02-13,Sourdough Loaf,23
+2026-02-13,Whole Wheat Bread,54
+2026-02-14,Apple Pie,23
+2026-02-14,Butter Croissant,90
+2026-02-14,Chocolate Cookie,91
+2026-02-14,Cinnamon Bun,30
+2026-02-14,Sourdough Loaf,27
+2026-02-14,Whole Wheat Bread,58
+2026-02-15,Apple Pie,22
+2026-02-15,Butter Croissant,84
+2026-02-15,Chocolate Cookie,80
+2026-02-15,Cinnamon Bun,31
+2026-02-15,Sourdough Loaf,34
+2026-02-15,Whole Wheat Bread,59
+2026-02-16,Apple Pie,13
+2026-02-16,Butter Croissant,49
+2026-02-16,Chocolate Cookie,80
+2026-02-16,Cinnamon Bun,28
+2026-02-16,Sourdough Loaf,23
+2026-02-16,Whole Wheat Bread,51
+2026-02-17,Apple Pie,12
+2026-02-17,Butter Croissant,54
+2026-02-17,Chocolate Cookie,77
+2026-02-17,Cinnamon Bun,31
+2026-02-17,Sourdough Loaf,24
+2026-02-17,Whole Wheat Bread,44
+2026-02-18,Apple Pie,19
+2026-02-18,Butter Croissant,60
+2026-02-18,Chocolate Cookie,76
+2026-02-18,Cinnamon Bun,31
+2026-02-18,Sourdough Loaf,22
+2026-02-18,Whole Wheat Bread,48
+2026-02-19,Apple Pie,15
+2026-02-19,Butter Croissant,61
+2026-02-19,Chocolate Cookie,76
+2026-02-19,Cinnamon Bun,27
+2026-02-19,Sourdough Loaf,23
+2026-02-19,Whole Wheat Bread,42
+2026-02-20,Apple Pie,15
+2026-02-20,Butter Croissant,67
+2026-02-20,Chocolate Cookie,83
+2026-02-20,Cinnamon Bun,30
+2026-02-20,Sourdough Loaf,27
+2026-02-20,Whole Wheat Bread,56
+2026-02-21,Apple Pie,22
+2026-02-21,Butter Croissant,84
+2026-02-21,Chocolate Cookie,89
+2026-02-21,Cinnamon Bun,33
+2026-02-21,Sourdough Loaf,38
+2026-02-21,Whole Wheat Bread,63
+2026-02-22,Apple Pie,24
+2026-02-22,Butter Croissant,88
+2026-02-22,Chocolate Cookie,93
+2026-02-22,Sourdough Loaf,26
+2026-02-22,Whole Wheat Bread,60
+2026-02-23,Apple Pie,15
+2026-02-23,Butter Croissant,55
+2026-02-23,Chocolate Cookie,89
+2026-02-23,Cinnamon Bun,30
+2026-02-23,Sourdough Loaf,19
+2026-02-23,Whole Wheat Bread,48
+2026-02-24,Apple Pie,13
+2026-02-24,Butter Croissant,50
+2026-02-24,Chocolate Cookie,66
+2026-02-24,Cinnamon Bun,27
+2026-02-24,Sourdough Loaf,20
+2026-02-24,Whole Wheat Bread,48
+2026-02-25,Apple Pie,12
+2026-02-25,Butter Croissant,51
+2026-02-25,Chocolate Cookie,78
+2026-02-25,Cinnamon Bun,29
+2026-02-25,Sourdough Loaf,19
+2026-02-25,Whole Wheat Bread,38
+2026-02-26,Apple Pie,15
+2026-02-26,Butter Croissant,66
+2026-02-26,Chocolate Cookie,78
+2026-02-26,Cinnamon Bun,34
+2026-02-26,Sourdough Loaf,24
+2026-02-26,Whole Wheat Bread,41
+2026-02-27,Apple Pie,13
+2026-02-27,Butter Croissant,69
+2026-02-27,Chocolate Cookie,89
+2026-02-27,Cinnamon Bun,30
+2026-02-27,Sourdough Loaf,29
+2026-02-27,Whole Wheat Bread,53
+2026-02-28,Apple Pie,20
+2026-02-28,Butter Croissant,95
+2026-02-28,Chocolate Cookie,88
+2026-02-28,Cinnamon Bun,31
+2026-02-28,Sourdough Loaf,29
+2026-02-28,Whole Wheat Bread,53
+2026-03-01,Apple Pie,24
+2026-03-01,Butter Croissant,83
+2026-03-01,Chocolate Cookie,90
+2026-03-01,Cinnamon Bun,31
+2026-03-01,Sourdough Loaf,25
+2026-03-01,Whole Wheat Bread,63
+2026-03-02,Apple Pie,12
+2026-03-02,Butter Croissant,64
+2026-03-02,Chocolate Cookie,74
+2026-03-02,Cinnamon Bun,23
+2026-03-02,Sourdough Loaf,23
+2026-03-02,Whole Wheat Bread,43
+2026-03-03,Apple Pie,14
+2026-03-03,Butter Croissant,53
+2026-03-03,Chocolate Cookie,83
+2026-03-03,Cinnamon Bun,23
+2026-03-03,Sourdough Loaf,27
+2026-03-03,Whole Wheat Bread,53
+2026-03-04,Apple Pie,18
+2026-03-04,Butter Croissant,55
+2026-03-04,Chocolate Cookie,80
+2026-03-04,Cinnamon Bun,32
+2026-03-04,Sourdough Loaf,14
+2026-03-04,Whole Wheat Bread,44
+2026-03-05,Apple Pie,17
+2026-03-05,Butter Croissant,72
+2026-03-05,Chocolate Cookie,80
+2026-03-05,Cinnamon Bun,29
+2026-03-05,Sourdough Loaf,24
+2026-03-05,Whole Wheat Bread,50
+2026-03-06,Apple Pie,18
+2026-03-06,Butter Croissant,72
+2026-03-06,Chocolate Cookie,89
+2026-03-06,Cinnamon Bun,25
+2026-03-06,Sourdough Loaf,23
+2026-03-06,Whole Wheat Bread,53
+2026-03-07,Apple Pie,30
+2026-03-07,Butter Croissant,87
+2026-03-07,Chocolate Cookie,93
+2026-03-07,Cinnamon Bun,39
+2026-03-07,Sourdough Loaf,36
+2026-03-07,Whole Wheat Bread,56
+2026-03-08,Apple Pie,24
+2026-03-08,Butter Croissant,85
+2026-03-08,Chocolate Cookie,81
+2026-03-08,Cinnamon Bun,39
+2026-03-08,Sourdough Loaf,26
+2026-03-08,Whole Wheat Bread,65
+2026-03-09,Apple Pie,13
+2026-03-09,Butter Croissant,60
+2026-03-09,Chocolate Cookie,84
+2026-03-09,Cinnamon Bun,27
+2026-03-09,Sourdough Loaf,23
+2026-03-09,Whole Wheat Bread,58
+2026-03-10,Apple Pie,16
+2026-03-10,Butter Croissant,63
+2026-03-10,Chocolate Cookie,81
+2026-03-10,Cinnamon Bun,25
+2026-03-10,Sourdough Loaf,19
+2026-03-10,Whole Wheat Bread,49
+2026-03-11,Apple Pie,15
+2026-03-11,Butter Croissant,53
+2026-03-11,Chocolate Cookie,79
+2026-03-11,Cinnamon Bun,26
+2026-03-11,Sourdough Loaf,20
+2026-03-11,Whole Wheat Bread,46
+2026-03-12,Apple Pie,13
+2026-03-12,Butter Croissant,48
+2026-03-12,Chocolate Cookie,88
+2026-03-12,Cinnamon Bun,29
+2026-03-12,Sourdough Loaf,26
+2026-03-12,Whole Wheat Bread,46
+2026-03-13,Apple Pie,18
+2026-03-13,Butter Croissant,66
+2026-03-13,Chocolate Cookie,95
+2026-03-13,Cinnamon Bun,33
+2026-03-13,Sourdough Loaf,29
+2026-03-13,Whole Wheat Bread,48
+2026-03-14,Apple Pie,23
+2026-03-14,Butter Croissant,89
+2026-03-14,Chocolate Cookie,88
+2026-03-14,Cinnamon Bun,41
+2026-03-14,Sourdough Loaf,31
+2026-03-14,Whole Wheat Bread,68
+2026-03-15,Apple Pie,16
+2026-03-15,Butter Croissant,86
+2026-03-15,Chocolate Cookie,86
+2026-03-15,Cinnamon Bun,39
+2026-03-15,Sourdough Loaf,26
+2026-03-15,Whole Wheat Bread,57
+2026-03-16,Apple Pie,13
+2026-03-16,Butter Croissant,66
+2026-03-16,Chocolate Cookie,91
+2026-03-16,Cinnamon Bun,33
+2026-03-16,Sourdough Loaf,19
+2026-03-16,Whole Wheat Bread,51
+2026-03-17,Apple Pie,13
+2026-03-17,Butter Croissant,58
+2026-03-17,Chocolate Cookie,88
+2026-03-17,Cinnamon Bun,33
+2026-03-17,Sourdough Loaf,22
+2026-03-17,Whole Wheat Bread,46
+2026-03-18,Apple Pie,13
+2026-03-18,Butter Croissant,60
+2026-03-18,Chocolate Cookie,75
+2026-03-18,Cinnamon Bun,30
+2026-03-18,Sourdough Loaf,23
+2026-03-18,Whole Wheat Bread,45
+2026-03-19,Apple Pie,11
+2026-03-19,Butter Croissant,52
+2026-03-19,Chocolate Cookie,74
+2026-03-19,Cinnamon Bun,22
+2026-03-19,Sourdough Loaf,22
+2026-03-19,Whole Wheat Bread,41
+2026-03-20,Apple Pie,17
+2026-03-20,Butter Croissant,73
+2026-03-20,Chocolate Cookie,83
+2026-03-20,Cinnamon Bun,30
+2026-03-20,Sourdough Loaf,26
+2026-03-20,Whole Wheat Bread,58
+2026-03-21,Apple Pie,24
+2026-03-21,Butter Croissant,101
+2026-03-21,Chocolate Cookie,92
+2026-03-21,Cinnamon Bun,38
+2026-03-21,Sourdough Loaf,29
+2026-03-21,Whole Wheat Bread,63
+2026-03-22,Apple Pie,22
+2026-03-22,Butter Croissant,89
+2026-03-22,Chocolate Cookie,81
+2026-03-22,Cinnamon Bun,33
+2026-03-22,Sourdough Loaf,29
+2026-03-22,Whole Wheat Bread,64
+2026-03-23,Apple Pie,10
+2026-03-23,Butter Croissant,60
+2026-03-23,Chocolate Cookie,81
+2026-03-23,Cinnamon Bun,32
+2026-03-23,Sourdough Loaf,24
+2026-03-23,Whole Wheat Bread,52
+2026-03-24,Apple Pie,15
+2026-03-24,Butter Croissant,58
+2026-03-24,Chocolate Cookie,71
+2026-03-24,Cinnamon Bun,26
+2026-03-24,Sourdough Loaf,27
+2026-03-24,Whole Wheat Bread,47
+2026-03-25,Apple Pie,11
+2026-03-25,Butter Croissant,65
+2026-03-25,Chocolate Cookie,72
+2026-03-25,Cinnamon Bun,24
+2026-03-25,Sourdough Loaf,28
+2026-03-25,Whole Wheat Bread,46
+2026-03-26,Apple Pie,15
+2026-03-26,Butter Croissant,53
+2026-03-26,Chocolate Cookie,88
+2026-03-26,Cinnamon Bun,33
+2026-03-26,Sourdough Loaf,22
+2026-03-26,Whole Wheat Bread,44
+2026-03-27,Apple Pie,22
+2026-03-27,Butter Croissant,67
+2026-03-27,Chocolate Cookie,83
+2026-03-27,Cinnamon Bun,33
+2026-03-27,Sourdough Loaf,24
+2026-03-27,Whole Wheat Bread,53
+2026-03-28,Apple Pie,22
+2026-03-28,Butter Croissant,92
+2026-03-28,Chocolate Cookie,95
+2026-03-28,Cinnamon Bun,38
+2026-03-28,Sourdough Loaf,32
+2026-03-28,Whole Wheat Bread,62
+2026-03-29,Apple Pie,20
+2026-03-29,Butter Croissant,89
+2026-03-29,Chocolate Cookie,95
+2026-03-29,Cinnamon Bun,38
+2026-03-29,Sourdough Loaf,27
+2026-03-29,Whole Wheat Bread,59
+2026-03-30,Apple Pie,17
+2026-03-30,Butter Croissant,56
+2026-03-30,Chocolate Cookie,86
+2026-03-30,Cinnamon Bun,32
+2026-03-30,Sourdough Loaf,22
+2026-03-30,Whole Wheat Bread,45
+2026-03-31,Apple Pie,12
+2026-03-31,Butter Croissant,58
+2026-03-31,Chocolate Cookie,77
+2026-03-31,Cinnamon Bun,29
+2026-03-31,Sourdough Loaf,23
+2026-03-31,Whole Wheat Bread,46
+2026-04-01,Apple Pie,13
+2026-04-01,Butter Croissant,53
+2026-04-01,Chocolate Cookie,80
+2026-04-01,Cinnamon Bun,18
+2026-04-01,Sourdough Loaf,19
+2026-04-01,Whole Wheat Bread,55
+2026-04-02,Apple Pie,16
+2026-04-02,Butter Croissant,58
+2026-04-02,Chocolate Cookie,76
+2026-04-02,Cinnamon Bun,25
+2026-04-02,Sourdough Loaf,24
+2026-04-02,Whole Wheat Bread,43
+2026-04-03,Apple Pie,21
+2026-04-03,Butter Croissant,66
+2026-04-03,Chocolate Cookie,98
+2026-04-03,Cinnamon Bun,29
+2026-04-03,Sourdough Loaf,26
+2026-04-03,Whole Wheat Bread,47
+2026-04-04,Apple Pie,17
+2026-04-04,Butter Croissant,82
+2026-04-04,Chocolate Cookie,99
+2026-04-04,Cinnamon Bun,33
+2026-04-04,Sourdough Loaf,33
+2026-04-04,Whole Wheat Bread,64
+2026-04-05,Apple Pie,19
+2026-04-05,Butter Croissant,84
+2026-04-05,Chocolate Cookie,83
+2026-04-05,Cinnamon Bun,35
+2026-04-05,Sourdough Loaf,28
+2026-04-05,Whole Wheat Bread,66
+2026-04-06,Apple Pie,11
+2026-04-06,Butter Croissant,63
+2026-04-06,Chocolate Cookie,80
+2026-04-06,Cinnamon Bun,33
+2026-04-06,Sourdough Loaf,22
+2026-04-06,Whole Wheat Bread,44
+2026-04-07,Apple Pie,10
+2026-04-07,Butter Croissant,51
+2026-04-07,Chocolate Cookie,83
+2026-04-07,Cinnamon Bun,26
+2026-04-07,Sourdough Loaf,20
+2026-04-07,Whole Wheat Bread,48
+2026-04-08,Apple Pie,11
+2026-04-08,Butter Croissant,53
+2026-04-08,Chocolate Cookie,83
+2026-04-08,Cinnamon Bun,23
+2026-04-08,Sourdough Loaf,22
+2026-04-08,Whole Wheat Bread,44
+2026-04-09,Apple Pie,13
+2026-04-09,Butter Croissant,61
+2026-04-09,Chocolate Cookie,93
+2026-04-09,Cinnamon Bun,35
+2026-04-09,Sourdough Loaf,20
+2026-04-09,Whole Wheat Bread,38
+2026-04-10,Apple Pie,19
+2026-04-10,Butter Croissant,61
+2026-04-10,Chocolate Cookie,96
+2026-04-10,Cinnamon Bun,29
+2026-04-10,Sourdough Loaf,27
+2026-04-10,Whole Wheat Bread,55
+2026-04-11,Apple Pie,21
+2026-04-11,Butter Croissant,89
+2026-04-11,Chocolate Cookie,91
+2026-04-11,Cinnamon Bun,32
+2026-04-11,Sourdough Loaf,32
+2026-04-11,Whole Wheat Bread,63
+2026-04-12,Apple Pie,22
+2026-04-12,Butter Croissant,78
+2026-04-12,Chocolate Cookie,90
+2026-04-12,Cinnamon Bun,35
+2026-04-12,Sourdough Loaf,25
+2026-04-12,Whole Wheat Bread,60
+2026-04-13,Apple Pie,15
+2026-04-13,Butter Croissant,64
+2026-04-13,Chocolate Cookie,72
+2026-04-13,Cinnamon Bun,30
+2026-04-13,Sourdough Loaf,24
+2026-04-13,Whole Wheat Bread,48
+2026-04-14,Apple Pie,11
+2026-04-14,Butter Croissant,69
+2026-04-14,Chocolate Cookie,80
+2026-04-14,Cinnamon Bun,25
+2026-04-14,Sourdough Loaf,19
+2026-04-14,Whole Wheat Bread,51
+2026-04-15,Apple Pie,14
+2026-04-15,Butter Croissant,66
+2026-04-15,Chocolate Cookie,81
+2026-04-15,Cinnamon Bun,30
+2026-04-15,Sourdough Loaf,21
+2026-04-15,Whole Wheat Bread,45
+2026-04-16,Apple Pie,20
+2026-04-16,Butter Croissant,56
+2026-04-16,Chocolate Cookie,99
+2026-04-16,Cinnamon Bun,26
+2026-04-16,Sourdough Loaf,21
+2026-04-16,Whole Wheat Bread,46
+2026-04-17,Apple Pie,19
+2026-04-17,Butter Croissant,71
+2026-04-17,Chocolate Cookie,87
+2026-04-17,Cinnamon Bun,27
+2026-04-17,Sourdough Loaf,20
+2026-04-17,Whole Wheat Bread,47
+2026-04-18,Apple Pie,22
+2026-04-18,Butter Croissant,89
+2026-04-18,Chocolate Cookie,81
+2026-04-18,Cinnamon Bun,37
+2026-04-18,Sourdough Loaf,33
+2026-04-18,Whole Wheat Bread,57
+2026-04-19,Apple Pie,21
+2026-04-19,Butter Croissant,84
+2026-04-19,Chocolate Cookie,86
+2026-04-19,Cinnamon Bun,37
+2026-04-19,Sourdough Loaf,29
+2026-04-19,Whole Wheat Bread,66
+2026-04-20,Apple Pie,11
+2026-04-20,Butter Croissant,66
+2026-04-20,Chocolate Cookie,81
+2026-04-20,Cinnamon Bun,26
+2026-04-20,Sourdough Loaf,24
+2026-04-20,Whole Wheat Bread,49
+2026-04-21,Apple Pie,14
+2026-04-21,Butter Croissant,49
+2026-04-21,Chocolate Cookie,71
+2026-04-21,Cinnamon Bun,29
+2026-04-21,Sourdough Loaf,22
+2026-04-21,Whole Wheat Bread,51
+2026-04-22,Apple Pie,16
+2026-04-22,Butter Croissant,60
+2026-04-22,Chocolate Cookie,74
+2026-04-22,Cinnamon Bun,27
+2026-04-22,Sourdough Loaf,21
+2026-04-22,Whole Wheat Bread,47
+2026-04-23,Apple Pie,13
+2026-04-23,Butter Croissant,57
+2026-04-23,Chocolate Cookie,79
+2026-04-23,Cinnamon Bun,38
+2026-04-23,Sourdough Loaf,19
+2026-04-23,Whole Wheat Bread,45
+2026-04-24,Apple Pie,17
+2026-04-24,Butter Croissant,74
+2026-04-24,Chocolate Cookie,89
+2026-04-24,Cinnamon Bun,28
+2026-04-24,Sourdough Loaf,26
+2026-04-24,Whole Wheat Bread,50
+2026-04-25,Apple Pie,27
+2026-04-25,Butter Croissant,89
+2026-04-25,Chocolate Cookie,94
+2026-04-25,Cinnamon Bun,42
+2026-04-25,Sourdough Loaf,31
+2026-04-25,Whole Wheat Bread,66
+2026-04-26,Apple Pie,20
+2026-04-26,Butter Croissant,80
+2026-04-26,Chocolate Cookie,85
+2026-04-26,Cinnamon Bun,34
+2026-04-26,Sourdough Loaf,29
+2026-04-26,Whole Wheat Bread,58
+2026-04-27,Apple Pie,14
+2026-04-27,Butter Croissant,59
+2026-04-27,Chocolate Cookie,86
+2026-04-27,Cinnamon Bun,28
+2026-04-27,Sourdough Loaf,21
+2026-04-27,Whole Wheat Bread,51
+2026-04-28,Apple Pie,10
+2026-04-28,Butter Croissant,60
+2026-04-28,Chocolate Cookie,76
+2026-04-28,Cinnamon Bun,30
+2026-04-28,Sourdough Loaf,24
+2026-04-28,Whole Wheat Bread,49
+2026-04-29,Apple Pie,12
+2026-04-29,Butter Croissant,55
+2026-04-29,Chocolate Cookie,77
+2026-04-29,Cinnamon Bun,30
+2026-04-29,Sourdough Loaf,23
+2026-04-29,Whole Wheat Bread,53
+2026-04-30,Apple Pie,14
+2026-04-30,Butter Croissant,60
+2026-04-30,Chocolate Cookie,73
+2026-04-30,Cinnamon Bun,32
+2026-04-30,Sourdough Loaf,22
+2026-04-30,Whole Wheat Bread,50
+2026-05-01,Apple Pie,24
+2026-05-01,Butter Croissant,62
+2026-05-01,Chocolate Cookie,79
+2026-05-01,Cinnamon Bun,31
+2026-05-01,Sourdough Loaf,24
+2026-05-01,Whole Wheat Bread,52
+2026-05-02,Apple Pie,22
+2026-05-02,Butter Croissant,73
+2026-05-02,Chocolate Cookie,97
+2026-05-02,Cinnamon Bun,33
+2026-05-02,Sourdough Loaf,33
+2026-05-02,Whole Wheat Bread,59
+2026-05-03,Apple Pie,19
+2026-05-03,Butter Croissant,86
+2026-05-03,Chocolate Cookie,78
+2026-05-03,Cinnamon Bun,31
+2026-05-03,Sourdough Loaf,23
+2026-05-03,Whole Wheat Bread,52
+2026-05-04,Apple Pie,12
+2026-05-04,Butter Croissant,60
+2026-05-04,Chocolate Cookie,78
+2026-05-04,Cinnamon Bun,29
+2026-05-04,Sourdough Loaf,25
+2026-05-04,Whole Wheat Bread,54
+2026-05-05,Apple Pie,12
+2026-05-05,Butter Croissant,55
+2026-05-05,Chocolate Cookie,82
+2026-05-05,Cinnamon Bun,29
+2026-05-05,Sourdough Loaf,23
+2026-05-05,Whole Wheat Bread,52
+2026-05-06,Apple Pie,15
+2026-05-06,Butter Croissant,53
+2026-05-06,Chocolate Cookie,75
+2026-05-06,Cinnamon Bun,32
+2026-05-06,Sourdough Loaf,23
+2026-05-06,Whole Wheat Bread,46
+2026-05-07,Apple Pie,15
+2026-05-07,Butter Croissant,61
+2026-05-07,Chocolate Cookie,81
+2026-05-07,Cinnamon Bun,28
+2026-05-07,Sourdough Loaf,23
+2026-05-07,Whole Wheat Bread,48
+2026-05-08,Apple Pie,23
+2026-05-08,Butter Croissant,62
+2026-05-08,Chocolate Cookie,78
+2026-05-08,Cinnamon Bun,34
+2026-05-08,Sourdough Loaf,24
+2026-05-08,Whole Wheat Bread,54
+2026-05-09,Apple Pie,23
+2026-05-09,Butter Croissant,81
+2026-05-09,Chocolate Cookie,101
+2026-05-09,Cinnamon Bun,41
+2026-05-09,Sourdough Loaf,31
+2026-05-09,Whole Wheat Bread,65
+2026-05-10,Apple Pie,25
+2026-05-10,Butter Croissant,80
+2026-05-10,Chocolate Cookie,96
+2026-05-10,Cinnamon Bun,34
+2026-05-10,Sourdough Loaf,30
+2026-05-10,Whole Wheat Bread,62
+2026-05-11,Apple Pie,14
+2026-05-11,Butter Croissant,62
+2026-05-11,Chocolate Cookie,80
+2026-05-11,Cinnamon Bun,22
+2026-05-11,Sourdough Loaf,25
+2026-05-11,Whole Wheat Bread,48
+2026-05-12,Apple Pie,15
+2026-05-12,Butter Croissant,46
+2026-05-12,Chocolate Cookie,66
+2026-05-12,Cinnamon Bun,22
+2026-05-12,Sourdough Loaf,23
+2026-05-12,Whole Wheat Bread,55
+2026-05-13,Apple Pie,9
+2026-05-13,Butter Croissant,59
+2026-05-13,Chocolate Cookie,71
+2026-05-13,Cinnamon Bun,21
+2026-05-13,Sourdough Loaf,17
+2026-05-13,Whole Wheat Bread,41
+2026-05-14,Apple Pie,14
+2026-05-14,Butter Croissant,52
+2026-05-14,Chocolate Cookie,86
+2026-05-14,Sourdough Loaf,23
+2026-05-14,Whole Wheat Bread,49
+2026-05-15,Apple Pie,17
+2026-05-15,Butter Croissant,58
+2026-05-15,Chocolate Cookie,96
+2026-05-15,Cinnamon Bun,36
+2026-05-15,Sourdough Loaf,29
+2026-05-15,Whole Wheat Bread,53
+2026-05-16,Apple Pie,22
+2026-05-16,Butter Croissant,92
+2026-05-16,Chocolate Cookie,95
+2026-05-16,Cinnamon Bun,32
+2026-05-16,Sourdough Loaf,34
+2026-05-16,Whole Wheat Bread,65
+2026-05-17,Apple Pie,15
+2026-05-17,Butter Croissant,80
+2026-05-17,Chocolate Cookie,97
+2026-05-17,Cinnamon Bun,38
+2026-05-17,Sourdough Loaf,29
+2026-05-17,Whole Wheat Bread,67
+2026-05-18,Apple Pie,16
+2026-05-18,Butter Croissant,49
+2026-05-18,Chocolate Cookie,75
+2026-05-18,Cinnamon Bun,30
+2026-05-18,Sourdough Loaf,19
+2026-05-18,Whole Wheat Bread,57
+2026-05-19,Apple Pie,12
+2026-05-19,Butter Croissant,52
+2026-05-19,Chocolate Cookie,76
+2026-05-19,Cinnamon Bun,33
+2026-05-19,Sourdough Loaf,25
+2026-05-19,Whole Wheat Bread,43
+2026-05-20,Apple Pie,12
+2026-05-20,Butter Croissant,58
+2026-05-20,Chocolate Cookie,78
+2026-05-20,Cinnamon Bun,30
+2026-05-20,Sourdough Loaf,22
+2026-05-20,Whole Wheat Bread,39
+2026-05-21,Apple Pie,14
+2026-05-21,Butter Croissant,62
+2026-05-21,Chocolate Cookie,82
+2026-05-21,Cinnamon Bun,26
+2026-05-21,Sourdough Loaf,14
+2026-05-21,Whole Wheat Bread,49
+2026-05-22,Apple Pie,17
+2026-05-22,Butter Croissant,62
+2026-05-22,Chocolate Cookie,75
+2026-05-22,Cinnamon Bun,29
+2026-05-22,Sourdough Loaf,27
+2026-05-22,Whole Wheat Bread,46
+2026-05-23,Apple Pie,24
+2026-05-23,Butter Croissant,87
+2026-05-23,Chocolate Cookie,99
+2026-05-23,Cinnamon Bun,36
+2026-05-23,Sourdough Loaf,27
+2026-05-23,Whole Wheat Bread,61
+2026-05-24,Apple Pie,17
+2026-05-24,Butter Croissant,85
+2026-05-24,Chocolate Cookie,98
+2026-05-24,Cinnamon Bun,34
+2026-05-24,Sourdough Loaf,24
+2026-05-24,Whole Wheat Bread,62
+2026-05-25,Apple Pie,11
+2026-05-25,Butter Croissant,52
+2026-05-25,Chocolate Cookie,72
+2026-05-25,Cinnamon Bun,25
+2026-05-25,Sourdough Loaf,22
+2026-05-25,Whole Wheat Bread,43
+2026-05-26,Apple Pie,14
+2026-05-26,Butter Croissant,56
+2026-05-26,Chocolate Cookie,69
+2026-05-26,Cinnamon Bun,27
+2026-05-26,Sourdough Loaf,26
+2026-05-26,Whole Wheat Bread,39
+2026-05-27,Apple Pie,14
+2026-05-27,Butter Croissant,53
+2026-05-27,Chocolate Cookie,81
+2026-05-27,Cinnamon Bun,32
+2026-05-27,Sourdough Loaf,21
+2026-05-27,Whole Wheat Bread,48
+2026-05-28,Apple Pie,14
+2026-05-28,Butter Croissant,52
+2026-05-28,Chocolate Cookie,76
+2026-05-28,Cinnamon Bun,20
+2026-05-28,Sourdough Loaf,22
+2026-05-28,Whole Wheat Bread,46
+2026-05-29,Apple Pie,16
+2026-05-29,Butter Croissant,62
+2026-05-29,Chocolate Cookie,70
+2026-05-29,Cinnamon Bun,31
+2026-05-29,Sourdough Loaf,31
+2026-05-29,Whole Wheat Bread,50
+2026-05-30,Apple Pie,20
+2026-05-30,Butter Croissant,85
+2026-05-30,Chocolate Cookie,98
+2026-05-30,Cinnamon Bun,32
+2026-05-30,Sourdough Loaf,36
+2026-05-30,Whole Wheat Bread,62
+2026-05-31,Apple Pie,21
+2026-05-31,Butter Croissant,81
+2026-05-31,Chocolate Cookie,90
+2026-05-31,Cinnamon Bun,34
+2026-05-31,Sourdough Loaf,28
+2026-05-31,Whole Wheat Bread,54
+2026-06-01,Apple Pie,16
+2026-06-01,Butter Croissant,50
+2026-06-01,Chocolate Cookie,73
+2026-06-01,Cinnamon Bun,29
+2026-06-01,Sourdough Loaf,22
+2026-06-01,Whole Wheat Bread,41
+2026-06-02,Apple Pie,9
+2026-06-02,Butter Croissant,49
+2026-06-02,Chocolate Cookie,88
+2026-06-02,Cinnamon Bun,26
+2026-06-02,Sourdough Loaf,18
+2026-06-02,Whole Wheat Bread,46
+2026-06-03,Apple Pie,17
+2026-06-03,Butter Croissant,57
+2026-06-03,Chocolate Cookie,76
+2026-06-03,Cinnamon Bun,28
+2026-06-03,Sourdough Loaf,19
+2026-06-03,Whole Wheat Bread,40
+2026-06-04,Apple Pie,16
+2026-06-04,Butter Croissant,54
+2026-06-04,Chocolate Cookie,72
+2026-06-04,Cinnamon Bun,20
+2026-06-04,Sourdough Loaf,22
+2026-06-04,Whole Wheat Bread,36
+2026-06-05,Apple Pie,16
+2026-06-05,Butter Croissant,67
+2026-06-05,Chocolate Cookie,83
+2026-06-05,Cinnamon Bun,33
+2026-06-05,Sourdough Loaf,26
+2026-06-05,Whole Wheat Bread,51
+2026-06-06,Apple Pie,24
+2026-06-06,Butter Croissant,88
+2026-06-06,Chocolate Cookie,83
+2026-06-06,Cinnamon Bun,32
+2026-06-06,Sourdough Loaf,31
+2026-06-06,Whole Wheat Bread,59
+2026-06-07,Apple Pie,16
+2026-06-07,Butter Croissant,81
+2026-06-07,Chocolate Cookie,81
+2026-06-07,Cinnamon Bun,34
+2026-06-07,Sourdough Loaf,30
+2026-06-07,Whole Wheat Bread,58
+2026-06-08,Apple Pie,8
+2026-06-08,Butter Croissant,66
+2026-06-08,Chocolate Cookie,79
+2026-06-08,Cinnamon Bun,27
+2026-06-08,Sourdough Loaf,20
+2026-06-08,Whole Wheat Bread,44
+2026-06-09,Apple Pie,9
+2026-06-09,Butter Croissant,47
+2026-06-09,Chocolate Cookie,71
+2026-06-09,Cinnamon Bun,16
+2026-06-09,Sourdough Loaf,21
+2026-06-09,Whole Wheat Bread,43
+2026-06-10,Apple Pie,12
+2026-06-10,Butter Croissant,55
+2026-06-10,Chocolate Cookie,73
+2026-06-10,Cinnamon Bun,22
+2026-06-10,Sourdough Loaf,23
+2026-06-10,Whole Wheat Bread,40
+2026-06-11,Apple Pie,13
+2026-06-11,Butter Croissant,51
+2026-06-11,Chocolate Cookie,88
+2026-06-11,Cinnamon Bun,27
+2026-06-11,Sourdough Loaf,23
+2026-06-11,Whole Wheat Bread,40
+2026-06-12,Apple Pie,15
+2026-06-12,Butter Croissant,72
+2026-06-12,Chocolate Cookie,88
+2026-06-12,Cinnamon Bun,34
+2026-06-12,Sourdough Loaf,28
+2026-06-12,Whole Wheat Bread,50
+2026-06-13,Apple Pie,22
+2026-06-13,Butter Croissant,91
+2026-06-13,Chocolate Cookie,95
+2026-06-13,Cinnamon Bun,35
+2026-06-13,Sourdough Loaf,32
+2026-06-13,Whole Wheat Bread,56
+2026-06-14,Apple Pie,14
+2026-06-14,Butter Croissant,67
+2026-06-14,Chocolate Cookie,90
+2026-06-14,Cinnamon Bun,33
+2026-06-14,Sourdough Loaf,26
+2026-06-14,Whole Wheat Bread,58
+2026-06-15,Apple Pie,14
+2026-06-15,Butter Croissant,48
+2026-06-15,Chocolate Cookie,80
+2026-06-15,Cinnamon Bun,21
+2026-06-15,Sourdough Loaf,24
+2026-06-15,Whole Wheat Bread,50
+2026-06-16,Apple Pie,8
+2026-06-16,Butter Croissant,55
+2026-06-16,Chocolate Cookie,84
+2026-06-16,Cinnamon Bun,31
+2026-06-16,Sourdough Loaf,19
+2026-06-16,Whole Wheat Bread,56
+2026-06-17,Apple Pie,11
+2026-06-17,Butter Croissant,55
+2026-06-17,Chocolate Cookie,76
+2026-06-17,Cinnamon Bun,32
+2026-06-17,Sourdough Loaf,16
+2026-06-17,Whole Wheat Bread,39
+2026-06-18,Apple Pie,13
+2026-06-18,Butter Croissant,57
+2026-06-18,Chocolate Cookie,89
+2026-06-18,Cinnamon Bun,26
+2026-06-18,Sourdough Loaf,23
+2026-06-18,Whole Wheat Bread,48
+2026-06-19,Apple Pie,14
+2026-06-19,Butter Croissant,61
+2026-06-19,Chocolate Cookie,76
+2026-06-19,Cinnamon Bun,28
+2026-06-19,Sourdough Loaf,25
+2026-06-19,Whole Wheat Bread,49
+2026-06-20,Apple Pie,18
+2026-06-20,Butter Croissant,84
+2026-06-20,Chocolate Cookie,88
+2026-06-20,Cinnamon Bun,28
+2026-06-20,Sourdough Loaf,31
+2026-06-20,Whole Wheat Bread,59
+2026-06-21,Apple Pie,17
+2026-06-21,Butter Croissant,81
+2026-06-21,Chocolate Cookie,77
+2026-06-21,Cinnamon Bun,36
+2026-06-21,Sourdough Loaf,22
+2026-06-21,Whole Wheat Bread,50
+2026-06-22,Apple Pie,13
+2026-06-22,Butter Croissant,53
+2026-06-22,Chocolate Cookie,74
+2026-06-22,Cinnamon Bun,37
+2026-06-22,Sourdough Loaf,22
+2026-06-22,Whole Wheat Bread,46
+2026-06-23,Apple Pie,14
+2026-06-23,Butter Croissant,57
+2026-06-23,Chocolate Cookie,78
+2026-06-23,Cinnamon Bun,29
+2026-06-23,Sourdough Loaf,20
+2026-06-23,Whole Wheat Bread,50
+2026-06-24,Apple Pie,15
+2026-06-24,Butter Croissant,38
+2026-06-24,Chocolate Cookie,85
+2026-06-24,Cinnamon Bun,30
+2026-06-24,Sourdough Loaf,19
+2026-06-24,Whole Wheat Bread,44
+2026-06-25,Apple Pie,11
+2026-06-25,Butter Croissant,56
+2026-06-25,Chocolate Cookie,73
+2026-06-25,Cinnamon Bun,28
+2026-06-25,Sourdough Loaf,14
+2026-06-25,Whole Wheat Bread,44
+2026-06-26,Apple Pie,15
+2026-06-26,Butter Croissant,56
+2026-06-26,Chocolate Cookie,83
+2026-06-26,Cinnamon Bun,25
+2026-06-26,Sourdough Loaf,24
+2026-06-26,Whole Wheat Bread,48
+2026-06-27,Apple Pie,19
+2026-06-27,Butter Croissant,87
+2026-06-27,Chocolate Cookie,88
+2026-06-27,Cinnamon Bun,39
+2026-06-27,Sourdough Loaf,33
+2026-06-27,Whole Wheat Bread,65
+2026-06-28,Apple Pie,21
+2026-06-28,Butter Croissant,76
+2026-06-28,Chocolate Cookie,82
+2026-06-28,Cinnamon Bun,27
+2026-06-28,Sourdough Loaf,28
+2026-06-28,Whole Wheat Bread,56
+2026-06-29,Apple Pie,7
+2026-06-29,Butter Croissant,48
+2026-06-29,Chocolate Cookie,69
+2026-06-29,Cinnamon Bun,26
+2026-06-29,Sourdough Loaf,21
+2026-06-29,Whole Wheat Bread,39
+2026-06-30,Apple Pie,16
+2026-06-30,Butter Croissant,54
+2026-06-30,Chocolate Cookie,76
+2026-06-30,Cinnamon Bun,27
+2026-06-30,Sourdough Loaf,22
+2026-06-30,Whole Wheat Bread,44
+2026-07-01,Apple Pie,11
+2026-07-01,Butter Croissant,43
+2026-07-01,Chocolate Cookie,62
+2026-07-01,Cinnamon Bun,28
+2026-07-01,Sourdough Loaf,23
+2026-07-01,Whole Wheat Bread,34
+2026-07-02,Apple Pie,11
+2026-07-02,Butter Croissant,46
+2026-07-02,Chocolate Cookie,75
+2026-07-02,Cinnamon Bun,26
+2026-07-02,Sourdough Loaf,12
+2026-07-02,Whole Wheat Bread,28
+2026-07-03,Apple Pie,17
+2026-07-03,Butter Croissant,51
+2026-07-03,Chocolate Cookie,80
+2026-07-03,Cinnamon Bun,29
+2026-07-03,Sourdough Loaf,24
+2026-07-03,Whole Wheat Bread,45
+2026-07-04,Apple Pie,24
+2026-07-04,Butter Croissant,78
+2026-07-04,Chocolate Cookie,83
+2026-07-04,Cinnamon Bun,30
+2026-07-04,Sourdough Loaf,31
+2026-07-04,Whole Wheat Bread,63
+2026-07-05,Apple Pie,20
+2026-07-05,Butter Croissant,77
+2026-07-05,Chocolate Cookie,77
+2026-07-05,Cinnamon Bun,26
+2026-07-05,Sourdough Loaf,28
+2026-07-05,Whole Wheat Bread,54
+2026-07-06,Apple Pie,15
+2026-07-06,Butter Croissant,57
+2026-07-06,Chocolate Cookie,65
+2026-07-06,Cinnamon Bun,26
+2026-07-06,Sourdough Loaf,27
+2026-07-06,Whole Wheat Bread,41
+2026-07-07,Apple Pie,12
+2026-07-07,Butter Croissant,49
+2026-07-07,Chocolate Cookie,85
+2026-07-07,Cinnamon Bun,22
+2026-07-07,Sourdough Loaf,24
+2026-07-07,Whole Wheat Bread,41
+2026-07-08,Apple Pie,16
+2026-07-08,Butter Croissant,54
+2026-07-08,Chocolate Cookie,64
+2026-07-08,Cinnamon Bun,19
+2026-07-08,Sourdough Loaf,21
+2026-07-08,Whole Wheat Bread,48
+2026-07-09,Apple Pie,17
+2026-07-09,Butter Croissant,51
+2026-07-09,Chocolate Cookie,85
+2026-07-09,Cinnamon Bun,20
+2026-07-09,Sourdough Loaf,21
+2026-07-09,Whole Wheat Bread,43
+2026-07-10,Apple Pie,16
+2026-07-10,Butter Croissant,59
+2026-07-10,Chocolate Cookie,84
+2026-07-10,Cinnamon Bun,26
+2026-07-10,Sourdough Loaf,26
+2026-07-10,Whole Wheat Bread,48
+2026-07-11,Apple Pie,25
+2026-07-11,Butter Croissant,81
+2026-07-11,Chocolate Cookie,85
+2026-07-11,Cinnamon Bun,26
+2026-07-11,Sourdough Loaf,28
+2026-07-11,Whole Wheat Bread,57
+2026-07-12,Apple Pie,20
+2026-07-12,Butter Croissant,80
+2026-07-12,Chocolate Cookie,76
+2026-07-12,Cinnamon Bun,26
+2026-07-12,Sourdough Loaf,26
+2026-07-12,Whole Wheat Bread,54
+2026-07-13,Apple Pie,12
+2026-07-13,Butter Croissant,49
+2026-07-13,Chocolate Cookie,81
+2026-07-13,Cinnamon Bun,19
+2026-07-13,Sourdough Loaf,25
+2026-07-13,Whole Wheat Bread,50
+2026-07-14,Apple Pie,9
+2026-07-14,Butter Croissant,48
+2026-07-14,Chocolate Cookie,84
+2026-07-14,Cinnamon Bun,26
+2026-07-14,Sourdough Loaf,27
+2026-07-14,Whole Wheat Bread,47
+2026-07-15,Apple Pie,12
+2026-07-15,Butter Croissant,48
+2026-07-15,Chocolate Cookie,67
+2026-07-15,Cinnamon Bun,26
+2026-07-15,Sourdough Loaf,20
+2026-07-15,Whole Wheat Bread,44
+2026-07-16,Apple Pie,16
+2026-07-16,Butter Croissant,51
+2026-07-16,Chocolate Cookie,73
+2026-07-16,Cinnamon Bun,32
+2026-07-16,Sourdough Loaf,20
+2026-07-16,Whole Wheat Bread,38
+2026-07-17,Apple Pie,13
+2026-07-17,Butter Croissant,54
+2026-07-17,Chocolate Cookie,87
+2026-07-17,Cinnamon Bun,22
+2026-07-17,Sourdough Loaf,25
+2026-07-17,Whole Wheat Bread,50
+2026-07-18,Apple Pie,23
+2026-07-18,Butter Croissant,84
+2026-07-18,Chocolate Cookie,89
+2026-07-18,Cinnamon Bun,30
+2026-07-18,Sourdough Loaf,33
+2026-07-18,Whole Wheat Bread,54
+2026-07-19,Apple Pie,20
+2026-07-19,Butter Croissant,72
+2026-07-19,Chocolate Cookie,97
+2026-07-19,Cinnamon Bun,34
+2026-07-19,Sourdough Loaf,26
+2026-07-19,Whole Wheat Bread,59
+2026-07-20,Apple Pie,13
+2026-07-20,Butter Croissant,54
+2026-07-20,Chocolate Cookie,70
+2026-07-20,Cinnamon Bun,25
+2026-07-20,Sourdough Loaf,26
+2026-07-20,Whole Wheat Bread,41
+2026-07-21,Apple Pie,6
+2026-07-21,Butter Croissant,45
+2026-07-21,Chocolate Cookie,76
+2026-07-21,Cinnamon Bun,24
+2026-07-21,Sourdough Loaf,18
+2026-07-21,Whole Wheat Bread,44
+2026-07-22,Apple Pie,12
+2026-07-22,Butter Croissant,50
+2026-07-22,Chocolate Cookie,65
+2026-07-22,Cinnamon Bun,31
+2026-07-22,Sourdough Loaf,20
+2026-07-22,Whole Wheat Bread,43
+2026-07-23,Apple Pie,15
+2026-07-23,Butter Croissant,53
+2026-07-23,Chocolate Cookie,89
+2026-07-23,Cinnamon Bun,24
+2026-07-23,Sourdough Loaf,20
+2026-07-23,Whole Wheat Bread,37
+2026-07-24,Apple Pie,14
+2026-07-24,Butter Croissant,57
+2026-07-24,Chocolate Cookie,75
+2026-07-24,Cinnamon Bun,23
+2026-07-24,Sourdough Loaf,26
+2026-07-24,Whole Wheat Bread,55
+2026-07-25,Apple Pie,21
+2026-07-25,Butter Croissant,89
+2026-07-25,Chocolate Cookie,73
+2026-07-25,Cinnamon Bun,28
+2026-07-25,Sourdough Loaf,32
+2026-07-25,Whole Wheat Bread,64
+2026-07-26,Apple Pie,13
+2026-07-26,Butter Croissant,76
+2026-07-26,Chocolate Cookie,83
+2026-07-26,Cinnamon Bun,32
+2026-07-26,Sourdough Loaf,22
+2026-07-26,Whole Wheat Bread,52
+2026-07-27,Apple Pie,14
+2026-07-27,Butter Croissant,61
+2026-07-27,Chocolate Cookie,73
+2026-07-27,Cinnamon Bun,27
+2026-07-27,Sourdough Loaf,19
+2026-07-27,Whole Wheat Bread,50
+2026-07-28,Apple Pie,10
+2026-07-28,Butter Croissant,55
+2026-07-28,Chocolate Cookie,85
+2026-07-28,Cinnamon Bun,20
+2026-07-28,Sourdough Loaf,22
+2026-07-28,Whole Wheat Bread,47
+2026-07-29,Apple Pie,15
+2026-07-29,Butter Croissant,45
+2026-07-29,Chocolate Cookie,71
+2026-07-29,Cinnamon Bun,21
+2026-07-29,Sourdough Loaf,19
+2026-07-29,Whole Wheat Bread,32
+2026-07-30,Apple Pie,8
+2026-07-30,Butter Croissant,48
+2026-07-30,Chocolate Cookie,75
+2026-07-30,Cinnamon Bun,27
+2026-07-30,Sourdough Loaf,16
+2026-07-30,Whole Wheat Bread,44
+2026-07-31,Apple Pie,18
+2026-07-31,Butter Croissant,61
+2026-07-31,Chocolate Cookie,84
+2026-07-31,Cinnamon Bun,30
+2026-07-31,Sourdough Loaf,27
+2026-07-31,Whole Wheat Bread,47
+2026-08-01,Apple Pie,20
+2026-08-01,Butter Croissant,76
+2026-08-01,Chocolate Cookie,95
+2026-08-01,Cinnamon Bun,30
+2026-08-01,Sourdough Loaf,30
+2026-08-01,Whole Wheat Bread,56
+2026-08-02,Apple Pie,21
+2026-08-02,Butter Croissant,72
+2026-08-02,Chocolate Cookie,81
+2026-08-02,Cinnamon Bun,32
+2026-08-02,Sourdough Loaf,27
+2026-08-02,Whole Wheat Bread,48
+2026-08-03,Apple Pie,9
+2026-08-03,Butter Croissant,48
+2026-08-03,Chocolate Cookie,79
+2026-08-03,Cinnamon Bun,27
+2026-08-03,Sourdough Loaf,20
+2026-08-03,Whole Wheat Bread,44
+2026-08-04,Apple Pie,10
+2026-08-04,Butter Croissant,38
+2026-08-04,Chocolate Cookie,74
+2026-08-04,Cinnamon Bun,17
+2026-08-04,Sourdough Loaf,23
+2026-08-04,Whole Wheat Bread,43
+2026-08-05,Apple Pie,18
+2026-08-05,Butter Croissant,46
+2026-08-05,Chocolate Cookie,70
+2026-08-05,Cinnamon Bun,23
+2026-08-05,Sourdough Loaf,19
+2026-08-05,Whole Wheat Bread,48
+2026-08-06,Apple Pie,11
+2026-08-06,Butter Croissant,37
+2026-08-06,Chocolate Cookie,74
+2026-08-06,Cinnamon Bun,26
+2026-08-06,Sourdough Loaf,23
+2026-08-06,Whole Wheat Bread,43
+2026-08-07,Apple Pie,14
+2026-08-07,Butter Croissant,59
+2026-08-07,Chocolate Cookie,78
+2026-08-07,Cinnamon Bun,24
+2026-08-07,Sourdough Loaf,21
+2026-08-07,Whole Wheat Bread,46
+2026-08-08,Apple Pie,20
+2026-08-08,Butter Croissant,72
+2026-08-08,Chocolate Cookie,79
+2026-08-08,Cinnamon Bun,24
+2026-08-08,Sourdough Loaf,26
+2026-08-08,Whole Wheat Bread,63
+2026-08-09,Apple Pie,16
+2026-08-09,Butter Croissant,68
+2026-08-09,Chocolate Cookie,90
+2026-08-09,Cinnamon Bun,29
+2026-08-09,Sourdough Loaf,26
+2026-08-09,Whole Wheat Bread,51
+2026-08-10,Apple Pie,15
+2026-08-10,Butter Croissant,48
+2026-08-10,Chocolate Cookie,64
+2026-08-10,Cinnamon Bun,28
+2026-08-10,Sourdough Loaf,19
+2026-08-10,Whole Wheat Bread,44
+2026-08-11,Apple Pie,16
+2026-08-11,Butter Croissant,49
+2026-08-11,Chocolate Cookie,79
+2026-08-11,Cinnamon Bun,30
+2026-08-11,Sourdough Loaf,22
+2026-08-11,Whole Wheat Bread,36
+2026-08-12,Apple Pie,10
+2026-08-12,Butter Croissant,39
+2026-08-12,Chocolate Cookie,78
+2026-08-12,Cinnamon Bun,15
+2026-08-12,Sourdough Loaf,21
+2026-08-12,Whole Wheat Bread,49
+2026-08-13,Apple Pie,8
+2026-08-13,Butter Croissant,39
+2026-08-13,Chocolate Cookie,73
+2026-08-13,Cinnamon Bun,34
+2026-08-13,Sourdough Loaf,17
+2026-08-13,Whole Wheat Bread,46
+2026-08-14,Apple Pie,19
+2026-08-14,Butter Croissant,51
+2026-08-14,Chocolate Cookie,73
+2026-08-14,Cinnamon Bun,22
+2026-08-14,Sourdough Loaf,24
+2026-08-14,Whole Wheat Bread,51
+2026-08-15,Apple Pie,24
+2026-08-15,Butter Croissant,64
+2026-08-15,Chocolate Cookie,84
+2026-08-15,Cinnamon Bun,36
+2026-08-15,Sourdough Loaf,28
+2026-08-15,Whole Wheat Bread,59
+2026-08-16,Apple Pie,21
+2026-08-16,Butter Croissant,67
+2026-08-16,Chocolate Cookie,85
+2026-08-16,Cinnamon Bun,35
+2026-08-16,Sourdough Loaf,28
+2026-08-16,Whole Wheat Bread,54
+2026-08-17,Apple Pie,15
+2026-08-17,Butter Croissant,58
+2026-08-17,Chocolate Cookie,78
+2026-08-17,Cinnamon Bun,28
+2026-08-17,Sourdough Loaf,20
+2026-08-17,Whole Wheat Bread,47
+2026-08-18,Apple Pie,9
+2026-08-18,Butter Croissant,42
+2026-08-18,Chocolate Cookie,73
+2026-08-18,Cinnamon Bun,25
+2026-08-18,Sourdough Loaf,19
+2026-08-18,Whole Wheat Bread,43
+2026-08-19,Apple Pie,12
+2026-08-19,Butter Croissant,50
+2026-08-19,Chocolate Cookie,78
+2026-08-19,Cinnamon Bun,19
+2026-08-19,Sourdough Loaf,24
+2026-08-19,Whole Wheat Bread,41
+2026-08-20,Apple Pie,9
+2026-08-20,Butter Croissant,41
+2026-08-20,Chocolate Cookie,70
+2026-08-20,Cinnamon Bun,27
+2026-08-20,Sourdough Loaf,26
+2026-08-20,Whole Wheat Bread,42
+2026-08-21,Apple Pie,12
+2026-08-21,Butter Croissant,59
+2026-08-21,Chocolate Cookie,80
+2026-08-21,Cinnamon Bun,24
+2026-08-21,Sourdough Loaf,30
+2026-08-21,Whole Wheat Bread,53
+2026-08-22,Apple Pie,23
+2026-08-22,Butter Croissant,74
+2026-08-22,Chocolate Cookie,75
+2026-08-22,Cinnamon Bun,23
+2026-08-22,Sourdough Loaf,29
+2026-08-22,Whole Wheat Bread,59
+2026-08-23,Apple Pie,17
+2026-08-23,Butter Croissant,71
+2026-08-23,Chocolate Cookie,87
+2026-08-23,Cinnamon Bun,41
+2026-08-23,Sourdough Loaf,26
+2026-08-23,Whole Wheat Bread,53
+2026-08-24,Apple Pie,18
+2026-08-24,Butter Croissant,53
+2026-08-24,Chocolate Cookie,74
+2026-08-24,Cinnamon Bun,27
+2026-08-24,Sourdough Loaf,26
+2026-08-24,Whole Wheat Bread,43
+2026-08-25,Apple Pie,12
+2026-08-25,Butter Croissant,58
+2026-08-25,Chocolate Cookie,69
+2026-08-25,Cinnamon Bun,31
+2026-08-25,Sourdough Loaf,20
+2026-08-25,Whole Wheat Bread,41
+2026-08-26,Apple Pie,10
+2026-08-26,Butter Croissant,48
+2026-08-26,Chocolate Cookie,80
+2026-08-26,Cinnamon Bun,20
+2026-08-26,Sourdough Loaf,17
+2026-08-26,Whole Wheat Bread,50
+2026-08-27,Apple Pie,15
+2026-08-27,Butter Croissant,50
+2026-08-27,Chocolate Cookie,78
+2026-08-27,Cinnamon Bun,30
+2026-08-27,Sourdough Loaf,20
+2026-08-27,Whole Wheat Bread,44
+2026-08-28,Apple Pie,21
+2026-08-28,Butter Croissant,52
+2026-08-28,Chocolate Cookie,60
+2026-08-28,Cinnamon Bun,33
+2026-08-28,Sourdough Loaf,25
+2026-08-28,Whole Wheat Bread,47
+2026-08-29,Apple Pie,22
+2026-08-29,Butter Croissant,79
+2026-08-29,Chocolate Cookie,86
+2026-08-29,Cinnamon Bun,38
+2026-08-29,Sourdough Loaf,26
+2026-08-29,Whole Wheat Bread,55
+2026-08-30,Apple Pie,15
+2026-08-30,Butter Croissant,70
+2026-08-30,Chocolate Cookie,73
+2026-08-30,Cinnamon Bun,30
+2026-08-30,Sourdough Loaf,21
+2026-08-30,Whole Wheat Bread,48
+2026-08-31,Apple Pie,13
+2026-08-31,Butter Croissant,54
+2026-08-31,Chocolate Cookie,80
+2026-08-31,Cinnamon Bun,20
+2026-08-31,Sourdough Loaf,17
+2026-08-31,Whole Wheat Bread,45
+2026-09-01,Apple Pie,15
+2026-09-01,Butter Croissant,47
+2026-09-01,Chocolate Cookie,87
+2026-09-01,Cinnamon Bun,23
+2026-09-01,Sourdough Loaf,22
+2026-09-01,Whole Wheat Bread,48
+2026-09-02,Apple Pie,11
+2026-09-02,Butter Croissant,56
+2026-09-02,Chocolate Cookie,68
+2026-09-02,Cinnamon Bun,15
+2026-09-02,Sourdough Loaf,18
+2026-09-02,Whole Wheat Bread,40
+2026-09-03,Apple Pie,11
+2026-09-03,Butter Croissant,38
+2026-09-03,Chocolate Cookie,74
+2026-09-03,Cinnamon Bun,18
+2026-09-03,Sourdough Loaf,19
+2026-09-03,Whole Wheat Bread,40
+2026-09-04,Apple Pie,19
+2026-09-04,Butter Croissant,55
+2026-09-04,Chocolate Cookie,77
+2026-09-04,Cinnamon Bun,27
+2026-09-04,Sourdough Loaf,24
+2026-09-04,Whole Wheat Bread,45
+2026-09-05,Apple Pie,21
+2026-09-05,Butter Croissant,80
+2026-09-05,Chocolate Cookie,88
+2026-09-05,Cinnamon Bun,28
+2026-09-05,Sourdough Loaf,30
+2026-09-05,Whole Wheat Bread,56
+2026-09-06,Apple Pie,16
+2026-09-06,Butter Croissant,69
+2026-09-06,Chocolate Cookie,86
+2026-09-06,Cinnamon Bun,29
+2026-09-06,Sourdough Loaf,24
+2026-09-06,Whole Wheat Bread,46
+2026-09-07,Apple Pie,11
+2026-09-07,Butter Croissant,45
+2026-09-07,Chocolate Cookie,81
+2026-09-07,Cinnamon Bun,24
+2026-09-07,Sourdough Loaf,23
+2026-09-07,Whole Wheat Bread,44
+2026-09-08,Apple Pie,9
+2026-09-08,Butter Croissant,46
+2026-09-08,Chocolate Cookie,65
+2026-09-08,Cinnamon Bun,31
+2026-09-08,Sourdough Loaf,18
+2026-09-08,Whole Wheat Bread,40
+2026-09-09,Apple Pie,13
+2026-09-09,Butter Croissant,39
+2026-09-09,Chocolate Cookie,82
+2026-09-09,Cinnamon Bun,29
+2026-09-09,Sourdough Loaf,19
+2026-09-09,Whole Wheat Bread,46
+2026-09-10,Apple Pie,13
+2026-09-10,Butter Croissant,49
+2026-09-10,Chocolate Cookie,67
+2026-09-10,Cinnamon Bun,24
+2026-09-10,Seasonal Fruit Tart,4
+2026-09-10,Sourdough Loaf,16
+2026-09-10,Whole Wheat Bread,38
+2026-09-11,Apple Pie,19
+2026-09-11,Butter Croissant,70
+2026-09-11,Chocolate Cookie,80
+2026-09-11,Cinnamon Bun,31
+2026-09-11,Seasonal Fruit Tart,7
+2026-09-11,Sourdough Loaf,27
+2026-09-11,Whole Wheat Bread,49
+2026-09-12,Apple Pie,22
+2026-09-12,Butter Croissant,81
+2026-09-12,Chocolate Cookie,93
+2026-09-12,Cinnamon Bun,29
+2026-09-12,Seasonal Fruit Tart,9
+2026-09-12,Sourdough Loaf,28
+2026-09-12,Whole Wheat Bread,63
+2026-09-13,Apple Pie,14
+2026-09-13,Butter Croissant,65
+2026-09-13,Chocolate Cookie,87
+2026-09-13,Cinnamon Bun,29
+2026-09-13,Seasonal Fruit Tart,14
+2026-09-13,Sourdough Loaf,23
+2026-09-13,Whole Wheat Bread,52
+2026-09-14,Apple Pie,13
+2026-09-14,Butter Croissant,44
+2026-09-14,Chocolate Cookie,67
+2026-09-14,Cinnamon Bun,28
+2026-09-14,Seasonal Fruit Tart,5
+2026-09-14,Sourdough Loaf,20
+2026-09-14,Whole Wheat Bread,43
+2026-09-15,Apple Pie,14
+2026-09-15,Butter Croissant,45
+2026-09-15,Chocolate Cookie,67
+2026-09-15,Cinnamon Bun,19
+2026-09-15,Seasonal Fruit Tart,7
+2026-09-15,Sourdough Loaf,20
+2026-09-15,Whole Wheat Bread,45
+2026-09-16,Apple Pie,13
+2026-09-16,Butter Croissant,52
+2026-09-16,Chocolate Cookie,69
+2026-09-16,Cinnamon Bun,23
+2026-09-16,Seasonal Fruit Tart,6
+2026-09-16,Sourdough Loaf,22
+2026-09-16,Whole Wheat Bread,42
+2026-09-17,Apple Pie,16
+2026-09-17,Butter Croissant,44
+2026-09-17,Chocolate Cookie,73
+2026-09-17,Cinnamon Bun,19
+2026-09-17,Seasonal Fruit Tart,8
+2026-09-17,Sourdough Loaf,15
+2026-09-17,Whole Wheat Bread,37
+2026-09-18,Apple Pie,14
+2026-09-18,Butter Croissant,53
+2026-09-18,Chocolate Cookie,86
+2026-09-18,Cinnamon Bun,27
+2026-09-18,Seasonal Fruit Tart,14
+2026-09-18,Sourdough Loaf,20
+2026-09-18,Whole Wheat Bread,48
+2026-09-19,Apple Pie,18
+2026-09-19,Butter Croissant,79
+2026-09-19,Chocolate Cookie,77
+2026-09-19,Cinnamon Bun,38
+2026-09-19,Seasonal Fruit Tart,12
+2026-09-19,Sourdough Loaf,27
+2026-09-19,Whole Wheat Bread,65
+2026-09-20,Apple Pie,21
+2026-09-20,Butter Croissant,76
+2026-09-20,Chocolate Cookie,85
+2026-09-20,Cinnamon Bun,27
+2026-09-20,Seasonal Fruit Tart,12
+2026-09-20,Sourdough Loaf,33
+2026-09-20,Whole Wheat Bread,52
+2026-09-21,Apple Pie,9
+2026-09-21,Butter Croissant,47
+2026-09-21,Chocolate Cookie,77
+2026-09-21,Cinnamon Bun,25
+2026-09-21,Seasonal Fruit Tart,5
+2026-09-21,Sourdough Loaf,24
+2026-09-21,Whole Wheat Bread,45
+2026-09-22,Apple Pie,5
+2026-09-22,Butter Croissant,41
+2026-09-22,Chocolate Cookie,75
+2026-09-22,Cinnamon Bun,21
+2026-09-22,Seasonal Fruit Tart,9
+2026-09-22,Sourdough Loaf,20
+2026-09-22,Whole Wheat Bread,39
+2026-09-23,Apple Pie,15
+2026-09-23,Butter Croissant,38
+2026-09-23,Chocolate Cookie,75
+2026-09-23,Cinnamon Bun,19
+2026-09-23,Seasonal Fruit Tart,5
+2026-09-23,Sourdough Loaf,22
+2026-09-23,Whole Wheat Bread,44
+2026-09-24,Apple Pie,11
+2026-09-24,Butter Croissant,44
+2026-09-24,Chocolate Cookie,84
+2026-09-24,Cinnamon Bun,19
+2026-09-24,Seasonal Fruit Tart,5
+2026-09-24,Sourdough Loaf,26
+2026-09-24,Whole Wheat Bread,36
+2026-09-25,Apple Pie,15
+2026-09-25,Butter Croissant,44
+2026-09-25,Chocolate Cookie,82
+2026-09-25,Cinnamon Bun,32
+2026-09-25,Seasonal Fruit Tart,7
+2026-09-25,Sourdough Loaf,23
+2026-09-25,Whole Wheat Bread,41
+2026-09-26,Apple Pie,16
+2026-09-26,Butter Croissant,79
+2026-09-26,Chocolate Cookie,91
+2026-09-26,Cinnamon Bun,41
+2026-09-26,Seasonal Fruit Tart,10
+2026-09-26,Sourdough Loaf,27
+2026-09-26,Whole Wheat Bread,62
+2026-09-27,Apple Pie,15
+2026-09-27,Butter Croissant,67
+2026-09-27,Chocolate Cookie,86
+2026-09-27,Cinnamon Bun,32
+2026-09-27,Seasonal Fruit Tart,14
+2026-09-27,Sourdough Loaf,29
+2026-09-27,Whole Wheat Bread,49
+2026-09-28,Apple Pie,9
+2026-09-28,Butter Croissant,51
+2026-09-28,Chocolate Cookie,85
+2026-09-28,Cinnamon Bun,22
+2026-09-28,Seasonal Fruit Tart,13
+2026-09-28,Sourdough Loaf,23
+2026-09-28,Whole Wheat Bread,51
+2026-09-29,Apple Pie,11
+2026-09-29,Butter Croissant,58
+2026-09-29,Chocolate Cookie,59
+2026-09-29,Cinnamon Bun,27
+2026-09-29,Seasonal Fruit Tart,4
+2026-09-29,Sourdough Loaf,22
+2026-09-29,Whole Wheat Bread,51
+2026-09-30,Apple Pie,13
+2026-09-30,Butter Croissant,53
+2026-09-30,Chocolate Cookie,81
+2026-09-30,Cinnamon Bun,22
+2026-09-30,Seasonal Fruit Tart,9
+2026-09-30,Sourdough Loaf,18
+2026-09-30,Whole Wheat Bread,44
+2026-10-01,Apple Pie,7
+2026-10-01,Butter Croissant,43
+2026-10-01,Chocolate Cookie,73
+2026-10-01,Cinnamon Bun,28
+2026-10-01,Seasonal Fruit Tart,9
+2026-10-01,Sourdough Loaf,26
+2026-10-01,Whole Wheat Bread,45
+2026-10-02,Apple Pie,18
+2026-10-02,Butter Croissant,62
+2026-10-02,Chocolate Cookie,78
+2026-10-02,Cinnamon Bun,28
+2026-10-02,Seasonal Fruit Tart,8
+2026-10-02,Sourdough Loaf,29
+2026-10-02,Whole Wheat Bread,56
+2026-10-03,Apple Pie,17
+2026-10-03,Butter Croissant,82
+2026-10-03,Chocolate Cookie,81
+2026-10-03,Cinnamon Bun,34
+2026-10-03,Seasonal Fruit Tart,13
+2026-10-03,Sourdough Loaf,31
+2026-10-03,Whole Wheat Bread,56
+2026-10-04,Apple Pie,16
+2026-10-04,Butter Croissant,68
+2026-10-04,Chocolate Cookie,72
+2026-10-04,Cinnamon Bun,33
+2026-10-04,Seasonal Fruit Tart,12
+2026-10-04,Sourdough Loaf,28
+2026-10-04,Whole Wheat Bread,51
+2026-10-05,Apple Pie,14
+2026-10-05,Butter Croissant,44
+2026-10-05,Chocolate Cookie,72
+2026-10-05,Cinnamon Bun,23
+2026-10-05,Seasonal Fruit Tart,5
+2026-10-05,Sourdough Loaf,16
+2026-10-05,Whole Wheat Bread,40
+2026-10-06,Apple Pie,12
+2026-10-06,Butter Croissant,47
+2026-10-06,Chocolate Cookie,68
+2026-10-06,Cinnamon Bun,23
+2026-10-06,Seasonal Fruit Tart,12
+2026-10-06,Sourdough Loaf,23
+2026-10-06,Whole Wheat Bread,45
+2026-10-07,Apple Pie,8
+2026-10-07,Butter Croissant,38
+2026-10-07,Chocolate Cookie,77
+2026-10-07,Cinnamon Bun,17
+2026-10-07,Seasonal Fruit Tart,3
+2026-10-07,Sourdough Loaf,20
+2026-10-07,Whole Wheat Bread,50
+2026-10-08,Apple Pie,18
+2026-10-08,Butter Croissant,57
+2026-10-08,Chocolate Cookie,65
+2026-10-08,Cinnamon Bun,23
+2026-10-08,Seasonal Fruit Tart,9
+2026-10-08,Sourdough Loaf,21
+2026-10-08,Whole Wheat Bread,47
+2026-10-09,Apple Pie,14
+2026-10-09,Butter Croissant,44
+2026-10-09,Chocolate Cookie,89
+2026-10-09,Cinnamon Bun,22
+2026-10-09,Seasonal Fruit Tart,11
+2026-10-09,Sourdough Loaf,26
+2026-10-09,Whole Wheat Bread,43
+2026-10-10,Apple Pie,21
+2026-10-10,Butter Croissant,69
+2026-10-10,Chocolate Cookie,89
+2026-10-10,Cinnamon Bun,32
+2026-10-10,Seasonal Fruit Tart,12
+2026-10-10,Sourdough Loaf,28
+2026-10-10,Whole Wheat Bread,53
+2026-10-11,Apple Pie,19
+2026-10-11,Butter Croissant,70
+2026-10-11,Chocolate Cookie,82
+2026-10-11,Cinnamon Bun,27
+2026-10-11,Seasonal Fruit Tart,13
+2026-10-11,Sourdough Loaf,21
+2026-10-11,Whole Wheat Bread,52
+2026-10-12,Apple Pie,16
+2026-10-12,Butter Croissant,48
+2026-10-12,Chocolate Cookie,70
+2026-10-12,Cinnamon Bun,25
+2026-10-12,Seasonal Fruit Tart,9
+2026-10-12,Sourdough Loaf,23
+2026-10-12,Whole Wheat Bread,48
+2026-10-13,Apple Pie,10
+2026-10-13,Butter Croissant,49
+2026-10-13,Chocolate Cookie,68
+2026-10-13,Cinnamon Bun,26
+2026-10-13,Seasonal Fruit Tart,7
+2026-10-13,Sourdough Loaf,19
+2026-10-13,Whole Wheat Bread,44
+2026-10-14,Apple Pie,15
+2026-10-14,Butter Croissant,48
+2026-10-14,Chocolate Cookie,66
+2026-10-14,Cinnamon Bun,19
+2026-10-14,Seasonal Fruit Tart,8
+2026-10-14,Sourdough Loaf,19
+2026-10-14,Whole Wheat Bread,44
+2026-10-15,Apple Pie,11
+2026-10-15,Butter Croissant,48
+2026-10-15,Chocolate Cookie,72
+2026-10-15,Cinnamon Bun,21
+2026-10-15,Seasonal Fruit Tart,10
+2026-10-15,Sourdough Loaf,18
+2026-10-15,Whole Wheat Bread,44
+2026-10-16,Apple Pie,19
+2026-10-16,Butter Croissant,64
+2026-10-16,Chocolate Cookie,80
+2026-10-16,Cinnamon Bun,23
+2026-10-16,Seasonal Fruit Tart,6
+2026-10-16,Sourdough Loaf,23
+2026-10-16,Whole Wheat Bread,46
+2026-10-17,Apple Pie,19
+2026-10-17,Butter Croissant,64
+2026-10-17,Chocolate Cookie,87
+2026-10-17,Cinnamon Bun,35
+2026-10-17,Seasonal Fruit Tart,17
+2026-10-17,Sourdough Loaf,22
+2026-10-17,Whole Wheat Bread,57
+2026-10-18,Apple Pie,18
+2026-10-18,Butter Croissant,72
+2026-10-18,Chocolate Cookie,75
+2026-10-18,Cinnamon Bun,37
+2026-10-18,Seasonal Fruit Tart,18
+2026-10-18,Sourdough Loaf,30
+2026-10-18,Whole Wheat Bread,55
+2026-10-19,Apple Pie,17
+2026-10-19,Butter Croissant,46
+2026-10-19,Chocolate Cookie,73
+2026-10-19,Cinnamon Bun,28
+2026-10-19,Seasonal Fruit Tart,9
+2026-10-19,Sourdough Loaf,23
+2026-10-19,Whole Wheat Bread,46
+2026-10-20,Apple Pie,13
+2026-10-20,Butter Croissant,49
+2026-10-20,Chocolate Cookie,67
+2026-10-20,Cinnamon Bun,23
+2026-10-20,Seasonal Fruit Tart,9
+2026-10-20,Sourdough Loaf,24
+2026-10-20,Whole Wheat Bread,47
+2026-10-21,Apple Pie,13
+2026-10-21,Butter Croissant,48
+2026-10-21,Chocolate Cookie,75
+2026-10-21,Cinnamon Bun,30
+2026-10-21,Seasonal Fruit Tart,4
+2026-10-21,Sourdough Loaf,26
+2026-10-21,Whole Wheat Bread,52
+2026-10-22,Apple Pie,20
+2026-10-22,Butter Croissant,44
+2026-10-22,Chocolate Cookie,87
+2026-10-22,Cinnamon Bun,19
+2026-10-22,Seasonal Fruit Tart,8
+2026-10-22,Sourdough Loaf,20
+2026-10-22,Whole Wheat Bread,45
+2026-10-23,Apple Pie,17
+2026-10-23,Butter Croissant,54
+2026-10-23,Chocolate Cookie,85
+2026-10-23,Cinnamon Bun,33
+2026-10-23,Seasonal Fruit Tart,9
+2026-10-23,Sourdough Loaf,18
+2026-10-23,Whole Wheat Bread,48
+2026-10-24,Apple Pie,18
+2026-10-24,Butter Croissant,80
+2026-10-24,Chocolate Cookie,86
+2026-10-24,Cinnamon Bun,30
+2026-10-24,Seasonal Fruit Tart,12
+2026-10-24,Sourdough Loaf,26
+2026-10-24,Whole Wheat Bread,50
